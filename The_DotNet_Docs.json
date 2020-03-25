@@ -1,6 +1,6 @@
 {
-    "current_program_scene": "Ending",
-    "current_scene": "Chatting",
+    "current_program_scene": "Chatting (2-3)",
+    "current_scene": "Chatting (2-3)",
     "current_transition": "Fade",
     "groups": [
         {
@@ -19,8 +19,163 @@
             "mixers": 0,
             "monitoring_type": 0,
             "muted": false,
+            "name": "Speaker 4",
+            "prev_ver": 419430401,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "custom_size": true,
+                "cx": 1600,
+                "cy": 901,
+                "id_counter": 4,
+                "items": [
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 19,
+                        "locked": true,
+                        "name": "Speaker 4 AV Feed",
+                        "pos": {
+                            "x": 38.0,
+                            "y": 24.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.79270833730697632,
+                            "y": 0.79227942228317261
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 18,
+                        "locked": true,
+                        "name": "Speaker 4 Label",
+                        "pos": {
+                            "x": 48.0,
+                            "y": 732.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 3,
+                        "locked": true,
+                        "name": "Twitter Icon",
+                        "pos": {
+                            "x": 45.999755859375,
+                            "y": 734.99957275390625
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.12769629061222076,
+                            "y": 0.1273486465215683
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 4,
+                        "locked": true,
+                        "name": "Frame",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.4814814329147339,
+                            "y": 1.451613187789917
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    }
+                ]
+            },
+            "sync": 0,
+            "versioned_id": "group",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {
+                "libobs.hide_scene_item.Frame": [],
+                "libobs.hide_scene_item.Speaker 3 AV Feed": [],
+                "libobs.hide_scene_item.Speaker 3 Label": [],
+                "libobs.hide_scene_item.Twitter Icon": [],
+                "libobs.show_scene_item.Frame": [],
+                "libobs.show_scene_item.Speaker 3 AV Feed": [],
+                "libobs.show_scene_item.Speaker 3 Label": [],
+                "libobs.show_scene_item.Twitter Icon": []
+            },
+            "id": "group",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
             "name": "Speaker 3",
-            "prev_ver": 419430400,
+            "prev_ver": 419430401,
             "private_settings": {},
             "push-to-mute": false,
             "push-to-mute-delay": 0,
@@ -50,7 +205,7 @@
                         "name": "Speaker 3 AV Feed",
                         "pos": {
                             "x": 26.0,
-                            "y": 19.0
+                            "y": 19.000244140625
                         },
                         "private_settings": {},
                         "rot": 0.0,
@@ -107,7 +262,7 @@
                         "locked": true,
                         "name": "Twitter Icon",
                         "pos": {
-                            "x": 45.999755859375,
+                            "x": 46.0,
                             "y": 735.0
                         },
                         "private_settings": {},
@@ -143,7 +298,7 @@
                         "rot": 0.0,
                         "scale": {
                             "x": 1.4814814329147339,
-                            "y": 1.4516130685806274
+                            "y": 1.451613187789917
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -162,8 +317,12 @@
             "flags": 0,
             "hotkeys": {
                 "libobs.hide_scene_item.Frame": [],
+                "libobs.hide_scene_item.Speaker 2 AV Feed": [],
+                "libobs.hide_scene_item.Speaker 2 Label": [],
                 "libobs.hide_scene_item.Twitter Icon": [],
                 "libobs.show_scene_item.Frame": [],
+                "libobs.show_scene_item.Speaker 2 AV Feed": [],
+                "libobs.show_scene_item.Speaker 2 Label": [],
                 "libobs.show_scene_item.Twitter Icon": []
             },
             "id": "group",
@@ -171,7 +330,7 @@
             "monitoring_type": 0,
             "muted": false,
             "name": "Speaker 2",
-            "prev_ver": 419430400,
+            "prev_ver": 419430401,
             "private_settings": {},
             "push-to-mute": false,
             "push-to-mute-delay": 0,
@@ -294,7 +453,7 @@
                         "rot": 0.0,
                         "scale": {
                             "x": 1.4814814329147339,
-                            "y": 1.4516130685806274
+                            "y": 1.451613187789917
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -311,13 +470,22 @@
             "deinterlace_mode": 0,
             "enabled": true,
             "flags": 0,
-            "hotkeys": {},
+            "hotkeys": {
+                "libobs.hide_scene_item.Frame": [],
+                "libobs.hide_scene_item.Speaker 1 AV Feed": [],
+                "libobs.hide_scene_item.Speaker 1 Label": [],
+                "libobs.hide_scene_item.Twitter Icon": [],
+                "libobs.show_scene_item.Frame": [],
+                "libobs.show_scene_item.Speaker 1 AV Feed": [],
+                "libobs.show_scene_item.Speaker 1 Label": [],
+                "libobs.show_scene_item.Twitter Icon": []
+            },
             "id": "group",
             "mixers": 0,
             "monitoring_type": 0,
             "muted": false,
             "name": "Speaker 1",
-            "prev_ver": 419430400,
+            "prev_ver": 419430401,
             "private_settings": {},
             "push-to-mute": false,
             "push-to-mute-delay": 0,
@@ -347,7 +515,7 @@
                         "name": "Speaker 1 AV Feed",
                         "pos": {
                             "x": 32.0,
-                            "y": 27.99951171875
+                            "y": 27.999267578125
                         },
                         "private_settings": {},
                         "rot": 0.0,
@@ -375,7 +543,7 @@
                         "locked": true,
                         "name": "Speaker 1 Label",
                         "pos": {
-                            "x": 47.99951171875,
+                            "x": 47.999755859375,
                             "y": 732.0
                         },
                         "private_settings": {},
@@ -404,7 +572,7 @@
                         "locked": true,
                         "name": "Twitter Icon",
                         "pos": {
-                            "x": 45.999755859375,
+                            "x": 45.99951171875,
                             "y": 734.99951171875
                         },
                         "private_settings": {},
@@ -468,7 +636,7 @@
             "monitoring_type": 0,
             "muted": false,
             "name": "Background",
-            "prev_ver": 419430400,
+            "prev_ver": 419430401,
             "private_settings": {},
             "push-to-mute": false,
             "push-to-mute-delay": 0,
@@ -552,14 +720,16 @@
             "flags": 0,
             "hotkeys": {
                 "libobs.hide_scene_item.Frame": [],
-                "libobs.show_scene_item.Frame": []
+                "libobs.hide_scene_item.Screen Share AV Feed": [],
+                "libobs.show_scene_item.Frame": [],
+                "libobs.show_scene_item.Screen Share AV Feed": []
             },
             "id": "group",
             "mixers": 0,
             "monitoring_type": 0,
             "muted": false,
             "name": "Screen Share",
-            "prev_ver": 419430400,
+            "prev_ver": 419430401,
             "private_settings": {},
             "push-to-mute": false,
             "push-to-mute-delay": 0,
@@ -585,7 +755,7 @@
                         "crop_top": 0,
                         "group_item_backup": false,
                         "id": 14,
-                        "locked": false,
+                        "locked": true,
                         "name": "Screen Share AV Feed",
                         "pos": {
                             "x": 39.0,
@@ -614,7 +784,7 @@
                         "crop_top": 0,
                         "group_item_backup": false,
                         "id": 13,
-                        "locked": false,
+                        "locked": true,
                         "name": "Frame",
                         "pos": {
                             "x": 0.0,
@@ -688,13 +858,19 @@
     "scaling_off_y": 0.0,
     "scene_order": [
         {
-            "name": "Chatting"
+            "name": "Chatting (2-3)"
+        },
+        {
+            "name": "Chatting (4)"
         },
         {
             "name": "Single Speaker"
         },
         {
-            "name": "Screenshare with Heads"
+            "name": "Screenshare with Heads (2-3)"
+        },
+        {
+            "name": "Screenshare with Heads (4)"
         },
         {
             "name": "Screenshare Full Screen"
@@ -720,238 +896,28 @@
             "enabled": true,
             "flags": 0,
             "hotkeys": {
-                "libobs.mute": [],
-                "libobs.push-to-mute": [],
-                "libobs.push-to-talk": [],
-                "libobs.unmute": []
-            },
-            "id": "ndi_source",
-            "mixers": 255,
-            "monitoring_type": 0,
-            "muted": true,
-            "name": "Speaker 3 AV Feed",
-            "prev_ver": 419430400,
-            "private_settings": {
-                "mixer_hidden": true
-            },
-            "push-to-mute": false,
-            "push-to-mute-delay": 0,
-            "push-to-talk": false,
-            "push-to-talk-delay": 0,
-            "settings": {
-                "ndi_fix_alpha_blending": false,
-                "ndi_recv_hw_accel": true,
-                "ndi_source_name": "VALAR-MORGHULIS (Skype - bloody templar)"
-            },
-            "sync": 0,
-            "versioned_id": "ndi_source",
-            "volume": 1.0
-        },
-        {
-            "balance": 0.5,
-            "deinterlace_field_order": 0,
-            "deinterlace_mode": 0,
-            "enabled": true,
-            "flags": 0,
-            "hotkeys": {},
-            "id": "text_gdiplus",
-            "mixers": 0,
-            "monitoring_type": 0,
-            "muted": false,
-            "name": "Speaker 3 Label",
-            "prev_ver": 419430400,
-            "private_settings": {},
-            "push-to-mute": false,
-            "push-to-mute-delay": 0,
-            "push-to-talk": false,
-            "push-to-talk-delay": 0,
-            "settings": {
-                "font": {
-                    "face": "Montserrat",
-                    "flags": 0,
-                    "size": 120,
-                    "style": "Regular"
-                },
-                "opacity": 60,
-                "text": "     @camsoper3"
-            },
-            "sync": 0,
-            "versioned_id": "text_gdiplus_v2",
-            "volume": 1.0
-        },
-        {
-            "balance": 0.5,
-            "deinterlace_field_order": 0,
-            "deinterlace_mode": 0,
-            "enabled": true,
-            "flags": 0,
-            "hotkeys": {
-                "libobs.mute": [],
-                "libobs.push-to-mute": [],
-                "libobs.push-to-talk": [],
-                "libobs.unmute": []
-            },
-            "id": "ndi_source",
-            "mixers": 255,
-            "monitoring_type": 0,
-            "muted": true,
-            "name": "Speaker 2 AV Feed",
-            "prev_ver": 419430400,
-            "private_settings": {
-                "mixer_hidden": true
-            },
-            "push-to-mute": false,
-            "push-to-mute-delay": 0,
-            "push-to-talk": false,
-            "push-to-talk-delay": 0,
-            "settings": {
-                "ndi_fix_alpha_blending": false,
-                "ndi_recv_hw_accel": true,
-                "ndi_source_name": "VALAR-MORGHULIS (Skype - bloody templar)"
-            },
-            "sync": 0,
-            "versioned_id": "ndi_source",
-            "volume": 1.0
-        },
-        {
-            "balance": 0.5,
-            "deinterlace_field_order": 0,
-            "deinterlace_mode": 0,
-            "enabled": true,
-            "flags": 0,
-            "hotkeys": {},
-            "id": "text_gdiplus",
-            "mixers": 0,
-            "monitoring_type": 0,
-            "muted": false,
-            "name": "Speaker 2 Label",
-            "prev_ver": 419430400,
-            "private_settings": {},
-            "push-to-mute": false,
-            "push-to-mute-delay": 0,
-            "push-to-talk": false,
-            "push-to-talk-delay": 0,
-            "settings": {
-                "font": {
-                    "face": "Montserrat",
-                    "flags": 0,
-                    "size": 120,
-                    "style": "Regular"
-                },
-                "opacity": 60,
-                "text": "     @camsoper2"
-            },
-            "sync": 0,
-            "versioned_id": "text_gdiplus_v2",
-            "volume": 1.0
-        },
-        {
-            "balance": 0.5,
-            "deinterlace_field_order": 0,
-            "deinterlace_mode": 0,
-            "enabled": true,
-            "flags": 0,
-            "hotkeys": {
-                "libobs.mute": [],
-                "libobs.push-to-mute": [],
-                "libobs.push-to-talk": [],
-                "libobs.unmute": []
-            },
-            "id": "ndi_source",
-            "mixers": 255,
-            "monitoring_type": 0,
-            "muted": true,
-            "name": "Speaker 1 AV Feed",
-            "prev_ver": 419430400,
-            "private_settings": {
-                "mixer_hidden": true
-            },
-            "push-to-mute": false,
-            "push-to-mute-delay": 0,
-            "push-to-talk": false,
-            "push-to-talk-delay": 0,
-            "settings": {
-                "ndi_fix_alpha_blending": false,
-                "ndi_recv_hw_accel": true,
-                "ndi_source_name": "VALAR-MORGHULIS (Skype - bloody templar)"
-            },
-            "sync": 0,
-            "versioned_id": "ndi_source",
-            "volume": 1.0
-        },
-        {
-            "balance": 0.5,
-            "deinterlace_field_order": 0,
-            "deinterlace_mode": 0,
-            "enabled": true,
-            "flags": 0,
-            "hotkeys": {},
-            "id": "text_gdiplus",
-            "mixers": 0,
-            "monitoring_type": 0,
-            "muted": false,
-            "name": "Speaker 1 Label",
-            "prev_ver": 419430400,
-            "private_settings": {},
-            "push-to-mute": false,
-            "push-to-mute-delay": 0,
-            "push-to-talk": false,
-            "push-to-talk-delay": 0,
-            "settings": {
-                "font": {
-                    "face": "Montserrat",
-                    "flags": 0,
-                    "size": 120,
-                    "style": "Regular"
-                },
-                "opacity": 60,
-                "text": "     @camsoper"
-            },
-            "sync": 0,
-            "versioned_id": "text_gdiplus_v2",
-            "volume": 1.0
-        },
-        {
-            "balance": 0.5,
-            "deinterlace_field_order": 0,
-            "deinterlace_mode": 0,
-            "enabled": true,
-            "flags": 0,
-            "hotkeys": {
                 "OBSBasic.SelectScene": [],
                 "libobs.hide_scene_item.Active Speaker": [],
                 "libobs.hide_scene_item.Background": [],
-                "libobs.hide_scene_item.Frame": [],
+                "libobs.hide_scene_item.Screen Share": [],
                 "libobs.hide_scene_item.Speaker 1": [],
-                "libobs.hide_scene_item.Speaker 1 AV Feed": [],
-                "libobs.hide_scene_item.Speaker 1 Label": [],
                 "libobs.hide_scene_item.Speaker 2": [],
-                "libobs.hide_scene_item.Speaker 2 AV Feed": [],
-                "libobs.hide_scene_item.Speaker 2 Label": [],
                 "libobs.hide_scene_item.Speaker 3": [],
-                "libobs.hide_scene_item.Speaker 3 AV Feed": [],
-                "libobs.hide_scene_item.Speaker 3 Label": [],
-                "libobs.hide_scene_item.Twitter Icon": [],
+                "libobs.hide_scene_item.Speaker 4": [],
                 "libobs.show_scene_item.Active Speaker": [],
                 "libobs.show_scene_item.Background": [],
-                "libobs.show_scene_item.Frame": [],
+                "libobs.show_scene_item.Screen Share": [],
                 "libobs.show_scene_item.Speaker 1": [],
-                "libobs.show_scene_item.Speaker 1 AV Feed": [],
-                "libobs.show_scene_item.Speaker 1 Label": [],
                 "libobs.show_scene_item.Speaker 2": [],
-                "libobs.show_scene_item.Speaker 2 AV Feed": [],
-                "libobs.show_scene_item.Speaker 2 Label": [],
                 "libobs.show_scene_item.Speaker 3": [],
-                "libobs.show_scene_item.Speaker 3 AV Feed": [],
-                "libobs.show_scene_item.Speaker 3 Label": [],
-                "libobs.show_scene_item.Twitter Icon": []
+                "libobs.show_scene_item.Speaker 4": []
             },
             "id": "scene",
             "mixers": 0,
             "monitoring_type": 0,
             "muted": false,
-            "name": "Single Speaker",
-            "prev_ver": 419430400,
+            "name": "Screenshare with Heads (4)",
+            "prev_ver": 419430401,
             "private_settings": {},
             "push-to-mute": false,
             "push-to-mute-delay": 0,
@@ -959,7 +925,7 @@
             "push-to-talk-delay": 0,
             "settings": {
                 "custom_size": false,
-                "id_counter": 16,
+                "id_counter": 7,
                 "items": [
                     {
                         "align": 5,
@@ -1053,6 +1019,2006 @@
                     {
                         "align": 5,
                         "bounds": {
+                            "x": 1577.0,
+                            "y": 881.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 2,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": true,
+                        "id": 14,
+                        "locked": true,
+                        "name": "Screen Share AV Feed",
+                        "pos": {
+                            "x": 174.0,
+                            "y": 39.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 0.99264705181121826
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": true,
+                        "id": 13,
+                        "locked": true,
+                        "name": "Frame",
+                        "pos": {
+                            "x": 135.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.5324074029922485,
+                            "y": 1.5322580337524414
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 2,
+                        "locked": true,
+                        "name": "Screen Share",
+                        "pos": {
+                            "x": 135.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {
+                            "collapsed": true
+                        },
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": true,
+                        "id": 19,
+                        "locked": true,
+                        "name": "Speaker 4 AV Feed",
+                        "pos": {
+                            "x": 1341.550048828125,
+                            "y": 882.67498779296875
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.17835937440395355,
+                            "y": 0.178262859582901
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": true,
+                        "id": 18,
+                        "locked": true,
+                        "name": "Speaker 4 Label",
+                        "pos": {
+                            "x": 1343.800048828125,
+                            "y": 1041.9749755859375
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.22499999403953552,
+                            "y": 0.22499999403953552
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": true,
+                        "id": 3,
+                        "locked": true,
+                        "name": "Twitter Icon",
+                        "pos": {
+                            "x": 1343.3499755859375,
+                            "y": 1042.64990234375
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.028731664642691612,
+                            "y": 0.028653444722294807
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": true,
+                        "id": 4,
+                        "locked": true,
+                        "name": "Frame",
+                        "pos": {
+                            "x": 1333.0,
+                            "y": 877.27496337890625
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.33333331346511841,
+                            "y": 0.32661294937133789
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 7,
+                        "locked": true,
+                        "name": "Speaker 4",
+                        "pos": {
+                            "x": 1333.0,
+                            "y": 877.27496337890625
+                        },
+                        "private_settings": {
+                            "collapsed": true
+                        },
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.22499999403953552,
+                            "y": 0.22499999403953552
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 1545.0,
+                            "y": 856.5
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 2,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": true,
+                        "id": 16,
+                        "locked": true,
+                        "name": "Speaker 3 AV Feed",
+                        "pos": {
+                            "x": 978.8499755859375,
+                            "y": 881.3250732421875
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.22499999403953552,
+                            "y": 0.22499999403953552
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": true,
+                        "id": 15,
+                        "locked": true,
+                        "name": "Speaker 3 Label",
+                        "pos": {
+                            "x": 983.57501220703125,
+                            "y": 1041.862548828125
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.22499999403953552,
+                            "y": 0.22499999403953552
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": true,
+                        "id": 3,
+                        "locked": true,
+                        "name": "Twitter Icon",
+                        "pos": {
+                            "x": 983.3499755859375,
+                            "y": 1042.425048828125
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.028731664642691612,
+                            "y": 0.028653444722294807
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": true,
+                        "id": 4,
+                        "locked": true,
+                        "name": "Frame",
+                        "pos": {
+                            "x": 973.0,
+                            "y": 877.04998779296875
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.33333331346511841,
+                            "y": 0.32661294937133789
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 3,
+                        "locked": true,
+                        "name": "Speaker 3",
+                        "pos": {
+                            "x": 973.0,
+                            "y": 877.04998779296875
+                        },
+                        "private_settings": {
+                            "collapsed": true
+                        },
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.22499999403953552,
+                            "y": 0.22499999403953552
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 1544.0,
+                            "y": 857.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 2,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": true,
+                        "id": 13,
+                        "locked": true,
+                        "name": "Speaker 2 AV Feed",
+                        "pos": {
+                            "x": 258.39999389648438,
+                            "y": 882.2249755859375
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.22499999403953552,
+                            "y": 0.22499999403953552
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": true,
+                        "id": 12,
+                        "locked": true,
+                        "name": "Speaker 2 Label",
+                        "pos": {
+                            "x": 266.04998779296875,
+                            "y": 1041.9749755859375
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.22499999403953552,
+                            "y": 0.22499999403953552
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": true,
+                        "id": 3,
+                        "locked": true,
+                        "name": "Twitter Icon",
+                        "pos": {
+                            "x": 263.3499755859375,
+                            "y": 1042.64990234375
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.028731664642691612,
+                            "y": 0.028653444722294807
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": true,
+                        "id": 4,
+                        "locked": true,
+                        "name": "Frame",
+                        "pos": {
+                            "x": 253.0,
+                            "y": 877.27496337890625
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.33333331346511841,
+                            "y": 0.32661294937133789
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 4,
+                        "locked": true,
+                        "name": "Speaker 2",
+                        "pos": {
+                            "x": 253.0,
+                            "y": 877.27496337890625
+                        },
+                        "private_settings": {
+                            "collapsed": true
+                        },
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.22499999403953552,
+                            "y": 0.22499999403953552
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 1531.0,
+                            "y": 851.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 2,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": true,
+                        "id": 9,
+                        "locked": true,
+                        "name": "Speaker 1 AV Feed",
+                        "pos": {
+                            "x": 620.20001220703125,
+                            "y": 883.5748291015625
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.22499999403953552,
+                            "y": 0.22499999403953552
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": true,
+                        "id": 7,
+                        "locked": true,
+                        "name": "Speaker 1 Label",
+                        "pos": {
+                            "x": 623.7999267578125,
+                            "y": 1041.9749755859375
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.22499999403953552,
+                            "y": 0.22499999403953552
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": true,
+                        "id": 6,
+                        "locked": true,
+                        "name": "Twitter Icon",
+                        "pos": {
+                            "x": 623.34991455078125,
+                            "y": 1042.64990234375
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.028731664642691612,
+                            "y": 0.028653444722294807
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": true,
+                        "id": 8,
+                        "locked": true,
+                        "name": "Frame",
+                        "pos": {
+                            "x": 613.0,
+                            "y": 877.27496337890625
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.33333331346511841,
+                            "y": 0.32661294937133789
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 5,
+                        "locked": true,
+                        "name": "Speaker 1",
+                        "pos": {
+                            "x": 613.0,
+                            "y": 877.27496337890625
+                        },
+                        "private_settings": {
+                            "collapsed": true
+                        },
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.22499999403953552,
+                            "y": 0.22499999403953552
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 6,
+                        "locked": true,
+                        "name": "Active Speaker",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    }
+                ]
+            },
+            "sync": 0,
+            "versioned_id": "scene",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "libobs.unmute": []
+            },
+            "id": "ndi_source",
+            "mixers": 255,
+            "monitoring_type": 0,
+            "muted": true,
+            "name": "Speaker 4 AV Feed",
+            "prev_ver": 419430401,
+            "private_settings": {
+                "mixer_hidden": true
+            },
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "ndi_fix_alpha_blending": false,
+                "ndi_recv_hw_accel": true,
+                "ndi_source_name": "VALAR-MORGHULIS (Skype - bloody templar)"
+            },
+            "sync": 0,
+            "versioned_id": "ndi_source",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {},
+            "id": "text_gdiplus",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "Speaker 4 Label",
+            "prev_ver": 419430401,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "font": {
+                    "face": "Montserrat",
+                    "flags": 0,
+                    "size": 120,
+                    "style": "Regular"
+                },
+                "opacity": 60,
+                "text": "     @dfberry"
+            },
+            "sync": 0,
+            "versioned_id": "text_gdiplus_v2",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {
+                "OBSBasic.SelectScene": [],
+                "libobs.hide_scene_item.Active Speaker": [],
+                "libobs.hide_scene_item.Background": [],
+                "libobs.hide_scene_item.Speaker 1": [],
+                "libobs.hide_scene_item.Speaker 2": [],
+                "libobs.hide_scene_item.Speaker 3": [],
+                "libobs.hide_scene_item.Speaker 4": [],
+                "libobs.show_scene_item.Active Speaker": [],
+                "libobs.show_scene_item.Background": [],
+                "libobs.show_scene_item.Speaker 1": [],
+                "libobs.show_scene_item.Speaker 2": [],
+                "libobs.show_scene_item.Speaker 3": [],
+                "libobs.show_scene_item.Speaker 4": []
+            },
+            "id": "scene",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "Chatting (4)",
+            "prev_ver": 419430401,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "custom_size": false,
+                "id_counter": 8,
+                "items": [
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": true,
+                        "id": 2,
+                        "locked": true,
+                        "name": "Base",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": true,
+                        "id": 3,
+                        "locked": true,
+                        "name": "Detail",
+                        "pos": {
+                            "x": 970.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 1,
+                        "locked": true,
+                        "name": "Background",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {
+                            "collapsed": true
+                        },
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": true,
+                        "id": 19,
+                        "locked": true,
+                        "name": "Speaker 4 AV Feed",
+                        "pos": {
+                            "x": 987.425048828125,
+                            "y": 547.744140625
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.42608076333999634,
+                            "y": 0.42585021257400513
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": true,
+                        "id": 18,
+                        "locked": true,
+                        "name": "Speaker 4 Label",
+                        "pos": {
+                            "x": 992.800048828125,
+                            "y": 928.29412841796875
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.53750002384185791,
+                            "y": 0.53750002384185791
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": true,
+                        "id": 3,
+                        "locked": true,
+                        "name": "Twitter Icon",
+                        "pos": {
+                            "x": 991.72491455078125,
+                            "y": 929.9063720703125
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.068636760115623474,
+                            "y": 0.068449899554252625
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": true,
+                        "id": 4,
+                        "locked": true,
+                        "name": "Frame",
+                        "pos": {
+                            "x": 967.00006103515625,
+                            "y": 534.8441162109375
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.79629629850387573,
+                            "y": 0.78024214506149292
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 8,
+                        "locked": true,
+                        "name": "Speaker 4",
+                        "pos": {
+                            "x": 967.00006103515625,
+                            "y": 534.8441162109375
+                        },
+                        "private_settings": {
+                            "collapsed": true
+                        },
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.53750002384185791,
+                            "y": 0.53750002384185791
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 1545.0,
+                            "y": 856.5
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 2,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": true,
+                        "id": 16,
+                        "locked": true,
+                        "name": "Speaker 3 AV Feed",
+                        "pos": {
+                            "x": 980.97503662109375,
+                            "y": 60.769210815429688
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.53750002384185791,
+                            "y": 0.53750002384185791
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": true,
+                        "id": 15,
+                        "locked": true,
+                        "name": "Speaker 3 Label",
+                        "pos": {
+                            "x": 992.2625732421875,
+                            "y": 444.27536010742188
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.53750002384185791,
+                            "y": 0.53750002384185791
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": true,
+                        "id": 3,
+                        "locked": true,
+                        "name": "Twitter Icon",
+                        "pos": {
+                            "x": 991.72503662109375,
+                            "y": 445.61911010742188
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.068636760115623474,
+                            "y": 0.068449899554252625
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": true,
+                        "id": 4,
+                        "locked": true,
+                        "name": "Frame",
+                        "pos": {
+                            "x": 967.00006103515625,
+                            "y": 50.55657958984375
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.79629629850387573,
+                            "y": 0.78024214506149292
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 2,
+                        "locked": true,
+                        "name": "Speaker 3",
+                        "pos": {
+                            "x": 967.00006103515625,
+                            "y": 50.55657958984375
+                        },
+                        "private_settings": {
+                            "collapsed": true
+                        },
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.53750002384185791,
+                            "y": 0.53750002384185791
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 1544.0,
+                            "y": 857.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 2,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": true,
+                        "id": 13,
+                        "locked": true,
+                        "name": "Speaker 2 AV Feed",
+                        "pos": {
+                            "x": 119.90000915527344,
+                            "y": 62.919116973876953
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.53750002384185791,
+                            "y": 0.53750002384185791
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": true,
+                        "id": 12,
+                        "locked": true,
+                        "name": "Speaker 2 Label",
+                        "pos": {
+                            "x": 138.17500305175781,
+                            "y": 444.54412841796875
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.53750002384185791,
+                            "y": 0.53750002384185791
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": true,
+                        "id": 3,
+                        "locked": true,
+                        "name": "Twitter Icon",
+                        "pos": {
+                            "x": 131.72494506835938,
+                            "y": 446.1563720703125
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.068636760115623474,
+                            "y": 0.068449899554252625
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": true,
+                        "id": 4,
+                        "locked": true,
+                        "name": "Frame",
+                        "pos": {
+                            "x": 107.00000762939453,
+                            "y": 51.0941162109375
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.79629629850387573,
+                            "y": 0.78024214506149292
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 3,
+                        "locked": true,
+                        "name": "Speaker 2",
+                        "pos": {
+                            "x": 107.00000762939453,
+                            "y": 51.0941162109375
+                        },
+                        "private_settings": {
+                            "collapsed": true
+                        },
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.53750002384185791,
+                            "y": 0.53750002384185791
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 1531.0,
+                            "y": 851.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 2,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": true,
+                        "id": 9,
+                        "locked": true,
+                        "name": "Speaker 1 AV Feed",
+                        "pos": {
+                            "x": 124.20001220703125,
+                            "y": 549.89373779296875
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.53750002384185791,
+                            "y": 0.53750002384185791
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": true,
+                        "id": 7,
+                        "locked": true,
+                        "name": "Speaker 1 Label",
+                        "pos": {
+                            "x": 132.79988098144531,
+                            "y": 928.29412841796875
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.53750002384185791,
+                            "y": 0.53750002384185791
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": true,
+                        "id": 6,
+                        "locked": true,
+                        "name": "Twitter Icon",
+                        "pos": {
+                            "x": 131.72474670410156,
+                            "y": 929.9063720703125
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.068636760115623474,
+                            "y": 0.068449899554252625
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": true,
+                        "id": 8,
+                        "locked": true,
+                        "name": "Frame",
+                        "pos": {
+                            "x": 107.00000762939453,
+                            "y": 534.8441162109375
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.79629629850387573,
+                            "y": 0.78024214506149292
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 4,
+                        "locked": true,
+                        "name": "Speaker 1",
+                        "pos": {
+                            "x": 107.00000762939453,
+                            "y": 534.8441162109375
+                        },
+                        "private_settings": {
+                            "collapsed": true
+                        },
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.53750002384185791,
+                            "y": 0.53750002384185791
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 5,
+                        "locked": true,
+                        "name": "Active Speaker",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    }
+                ]
+            },
+            "sync": 0,
+            "versioned_id": "scene",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "libobs.unmute": []
+            },
+            "id": "ndi_source",
+            "mixers": 255,
+            "monitoring_type": 0,
+            "muted": true,
+            "name": "Speaker 3 AV Feed",
+            "prev_ver": 419430401,
+            "private_settings": {
+                "mixer_hidden": true
+            },
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "ndi_fix_alpha_blending": false,
+                "ndi_recv_hw_accel": true,
+                "ndi_source_name": "VALAR-MORGHULIS ([Skype - live]tobias addie)"
+            },
+            "sync": 0,
+            "versioned_id": "ndi_source",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {},
+            "id": "text_gdiplus",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "Speaker 3 Label",
+            "prev_ver": 419430401,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "font": {
+                    "face": "Montserrat",
+                    "flags": 0,
+                    "size": 120,
+                    "style": "Regular"
+                },
+                "opacity": 60,
+                "text": "     @Scott_Addie"
+            },
+            "sync": 0,
+            "versioned_id": "text_gdiplus_v2",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "libobs.unmute": []
+            },
+            "id": "ndi_source",
+            "mixers": 255,
+            "monitoring_type": 0,
+            "muted": true,
+            "name": "Speaker 2 AV Feed",
+            "prev_ver": 419430401,
+            "private_settings": {
+                "mixer_hidden": true
+            },
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "ndi_fix_alpha_blending": false,
+                "ndi_recv_hw_accel": true,
+                "ndi_source_name": "VALAR-MORGHULIS (Skype - davidpine07)"
+            },
+            "sync": 0,
+            "versioned_id": "ndi_source",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {},
+            "id": "text_gdiplus",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "Speaker 2 Label",
+            "prev_ver": 419430401,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "font": {
+                    "face": "Montserrat",
+                    "flags": 0,
+                    "size": 120,
+                    "style": "Regular"
+                },
+                "opacity": 60,
+                "text": "     @davidpine7"
+            },
+            "sync": 0,
+            "versioned_id": "text_gdiplus_v2",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "libobs.unmute": []
+            },
+            "id": "ndi_source",
+            "mixers": 255,
+            "monitoring_type": 0,
+            "muted": true,
+            "name": "Speaker 1 AV Feed",
+            "prev_ver": 419430401,
+            "private_settings": {
+                "mixer_hidden": true
+            },
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "ndi_fix_alpha_blending": false,
+                "ndi_recv_hw_accel": true,
+                "ndi_source_name": "VALAR-MORGHULIS (Skype - berry dina)"
+            },
+            "sync": 0,
+            "versioned_id": "ndi_source",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {},
+            "id": "text_gdiplus",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "Speaker 1 Label",
+            "prev_ver": 419430401,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "font": {
+                    "face": "Montserrat",
+                    "flags": 0,
+                    "size": 120,
+                    "style": "Regular"
+                },
+                "opacity": 60,
+                "text": "     @dfberry"
+            },
+            "sync": 0,
+            "versioned_id": "text_gdiplus_v2",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {
+                "OBSBasic.SelectScene": [],
+                "libobs.hide_scene_item.Active Speaker": [],
+                "libobs.hide_scene_item.Background": [],
+                "libobs.hide_scene_item.Speaker 1": [],
+                "libobs.hide_scene_item.Speaker 2": [],
+                "libobs.hide_scene_item.Speaker 3": [],
+                "libobs.hide_scene_item.Speaker 4": [],
+                "libobs.hide_scene_item.Speaker 4 AV Feed": [],
+                "libobs.hide_scene_item.Speaker 4 Label": [],
+                "libobs.show_scene_item.Active Speaker": [],
+                "libobs.show_scene_item.Background": [],
+                "libobs.show_scene_item.Speaker 1": [],
+                "libobs.show_scene_item.Speaker 2": [],
+                "libobs.show_scene_item.Speaker 3": [],
+                "libobs.show_scene_item.Speaker 4": [],
+                "libobs.show_scene_item.Speaker 4 AV Feed": [],
+                "libobs.show_scene_item.Speaker 4 Label": []
+            },
+            "id": "scene",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "Single Speaker",
+            "prev_ver": 419430401,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "custom_size": false,
+                "id_counter": 19,
+                "items": [
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": true,
+                        "id": 2,
+                        "locked": true,
+                        "name": "Base",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": true,
+                        "id": 3,
+                        "locked": true,
+                        "name": "Detail",
+                        "pos": {
+                            "x": 970.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 1,
+                        "locked": true,
+                        "name": "Background",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {
+                            "collapsed": true
+                        },
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": true,
+                        "id": 19,
+                        "locked": true,
+                        "name": "Speaker 4 AV Feed",
+                        "pos": {
+                            "x": 198.0,
+                            "y": 114.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.79270833730697632,
+                            "y": 0.79227942228317261
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": true,
+                        "id": 18,
+                        "locked": true,
+                        "name": "Speaker 4 Label",
+                        "pos": {
+                            "x": 208.0,
+                            "y": 822.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": true,
+                        "id": 3,
+                        "locked": true,
+                        "name": "Twitter Icon",
+                        "pos": {
+                            "x": 205.999755859375,
+                            "y": 824.99957275390625
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.12769629061222076,
+                            "y": 0.1273486465215683
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": true,
+                        "id": 4,
+                        "locked": true,
+                        "name": "Frame",
+                        "pos": {
+                            "x": 160.0,
+                            "y": 90.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.4814814329147339,
+                            "y": 1.451613187789917
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 17,
+                        "locked": true,
+                        "name": "Speaker 4",
+                        "pos": {
+                            "x": 160.0,
+                            "y": 90.0
+                        },
+                        "private_settings": {
+                            "collapsed": true
+                        },
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": false
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
                             "x": 1545.0,
                             "y": 856.5
                         },
@@ -1068,7 +3034,7 @@
                         "name": "Speaker 3 AV Feed",
                         "pos": {
                             "x": 186.0,
-                            "y": 108.5
+                            "y": 108.500244140625
                         },
                         "private_settings": {},
                         "rot": 0.0,
@@ -1125,7 +3091,7 @@
                         "locked": true,
                         "name": "Twitter Icon",
                         "pos": {
-                            "x": 205.999755859375,
+                            "x": 206.0,
                             "y": 824.5
                         },
                         "private_settings": {},
@@ -1161,7 +3127,7 @@
                         "rot": 0.0,
                         "scale": {
                             "x": 1.4814814329147339,
-                            "y": 1.4516130685806274
+                            "y": 1.451613187789917
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -1195,7 +3161,7 @@
                             "y": 1.0
                         },
                         "scale_filter": "disable",
-                        "visible": true
+                        "visible": false
                     },
                     {
                         "align": 5,
@@ -1308,7 +3274,7 @@
                         "rot": 0.0,
                         "scale": {
                             "x": 1.4814814329147339,
-                            "y": 1.4516130685806274
+                            "y": 1.451613187789917
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -1362,7 +3328,7 @@
                         "name": "Speaker 1 AV Feed",
                         "pos": {
                             "x": 192.0,
-                            "y": 117.99951171875
+                            "y": 117.999267578125
                         },
                         "private_settings": {},
                         "rot": 0.0,
@@ -1390,7 +3356,7 @@
                         "locked": true,
                         "name": "Speaker 1 Label",
                         "pos": {
-                            "x": 207.99951171875,
+                            "x": 207.999755859375,
                             "y": 822.0
                         },
                         "private_settings": {},
@@ -1419,7 +3385,7 @@
                         "locked": true,
                         "name": "Twitter Icon",
                         "pos": {
-                            "x": 205.999755859375,
+                            "x": 205.99951171875,
                             "y": 824.99951171875
                         },
                         "private_settings": {},
@@ -1489,7 +3455,7 @@
                             "y": 1.0
                         },
                         "scale_filter": "disable",
-                        "visible": false
+                        "visible": true
                     },
                     {
                         "align": 5,
@@ -1538,7 +3504,7 @@
             "monitoring_type": 0,
             "muted": false,
             "name": "will",
-            "prev_ver": 419430400,
+            "prev_ver": 419430401,
             "private_settings": {},
             "push-to-mute": false,
             "push-to-mute-delay": 0,
@@ -1575,7 +3541,7 @@
             "monitoring_type": 0,
             "muted": false,
             "name": "BeRightBack",
-            "prev_ver": 419430400,
+            "prev_ver": 419430401,
             "private_settings": {},
             "push-to-mute": false,
             "push-to-mute-delay": 0,
@@ -1610,7 +3576,7 @@
             "monitoring_type": 0,
             "muted": false,
             "name": "BRB",
-            "prev_ver": 419430400,
+            "prev_ver": 419430401,
             "private_settings": {},
             "push-to-mute": false,
             "push-to-mute-delay": 0,
@@ -1698,7 +3664,9 @@
                             "x": 0.0,
                             "y": 0.0
                         },
-                        "private_settings": {},
+                        "private_settings": {
+                            "collapsed": true
+                        },
                         "rot": 0.0,
                         "scale": {
                             "x": 1.0,
@@ -1826,8 +3794,8 @@
             "mixers": 0,
             "monitoring_type": 0,
             "muted": false,
-            "name": "Chatting",
-            "prev_ver": 419430400,
+            "name": "Chatting (2-3)",
+            "prev_ver": 419430401,
             "private_settings": {},
             "push-to-mute": false,
             "push-to-mute-delay": 0,
@@ -1909,7 +3877,7 @@
                         "crop_top": 0,
                         "group_item_backup": false,
                         "id": 4,
-                        "locked": false,
+                        "locked": true,
                         "name": "Background",
                         "pos": {
                             "x": 0.0,
@@ -1944,7 +3912,7 @@
                         "name": "Speaker 3 AV Feed",
                         "pos": {
                             "x": 980.97503662109375,
-                            "y": 60.769081115722656
+                            "y": 60.769210815429688
                         },
                         "private_settings": {},
                         "rot": 0.0,
@@ -2001,7 +3969,7 @@
                         "locked": true,
                         "name": "Twitter Icon",
                         "pos": {
-                            "x": 991.72491455078125,
+                            "x": 991.72503662109375,
                             "y": 445.61911010742188
                         },
                         "private_settings": {},
@@ -2037,7 +4005,7 @@
                         "rot": 0.0,
                         "scale": {
                             "x": 0.79629629850387573,
-                            "y": 0.78024208545684814
+                            "y": 0.78024214506149292
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -2056,7 +4024,7 @@
                         "crop_top": 0,
                         "group_item_backup": false,
                         "id": 29,
-                        "locked": false,
+                        "locked": true,
                         "name": "Speaker 3",
                         "pos": {
                             "x": 967.00006103515625,
@@ -2184,7 +4152,7 @@
                         "rot": 0.0,
                         "scale": {
                             "x": 0.79629629850387573,
-                            "y": 0.78024208545684814
+                            "y": 0.78024214506149292
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -2203,7 +4171,7 @@
                         "crop_top": 0,
                         "group_item_backup": false,
                         "id": 28,
-                        "locked": false,
+                        "locked": true,
                         "name": "Speaker 2",
                         "pos": {
                             "x": 107.0,
@@ -2238,7 +4206,7 @@
                         "name": "Speaker 1 AV Feed",
                         "pos": {
                             "x": 538.20013427734375,
-                            "y": 549.89385986328125
+                            "y": 549.89373779296875
                         },
                         "private_settings": {},
                         "rot": 0.0,
@@ -2266,7 +4234,7 @@
                         "locked": true,
                         "name": "Speaker 1 Label",
                         "pos": {
-                            "x": 546.79986572265625,
+                            "x": 546.79998779296875,
                             "y": 928.29412841796875
                         },
                         "private_settings": {},
@@ -2295,7 +4263,7 @@
                         "locked": true,
                         "name": "Twitter Icon",
                         "pos": {
-                            "x": 545.7249755859375,
+                            "x": 545.724853515625,
                             "y": 929.9063720703125
                         },
                         "private_settings": {},
@@ -2357,7 +4325,7 @@
                             "y": 534.8441162109375
                         },
                         "private_settings": {
-                            "collapsed": true
+                            "collapsed": false
                         },
                         "rot": 0.0,
                         "scale": {
@@ -2381,7 +4349,7 @@
                         "crop_top": 0,
                         "group_item_backup": false,
                         "id": 30,
-                        "locked": false,
+                        "locked": true,
                         "name": "Active Speaker",
                         "pos": {
                             "x": 0.0,
@@ -2414,7 +4382,7 @@
             "monitoring_type": 0,
             "muted": false,
             "name": "Base",
-            "prev_ver": 419430400,
+            "prev_ver": 419430401,
             "private_settings": {},
             "push-to-mute": false,
             "push-to-mute-delay": 0,
@@ -2439,7 +4407,7 @@
             "monitoring_type": 0,
             "muted": false,
             "name": "Detail",
-            "prev_ver": 419430400,
+            "prev_ver": 419430401,
             "private_settings": {},
             "push-to-mute": false,
             "push-to-mute-delay": 0,
@@ -2472,7 +4440,7 @@
             "monitoring_type": 0,
             "muted": false,
             "name": "Starting",
-            "prev_ver": 419430400,
+            "prev_ver": 419430401,
             "private_settings": {},
             "push-to-mute": false,
             "push-to-mute-delay": 0,
@@ -2560,7 +4528,9 @@
                             "x": 0.0,
                             "y": 0.0
                         },
-                        "private_settings": {},
+                        "private_settings": {
+                            "collapsed": true
+                        },
                         "rot": 0.0,
                         "scale": {
                             "x": 1.0,
@@ -2645,7 +4615,7 @@
             "monitoring_type": 0,
             "muted": false,
             "name": "StreamStarting",
-            "prev_ver": 419430400,
+            "prev_ver": 419430401,
             "private_settings": {},
             "push-to-mute": false,
             "push-to-mute-delay": 0,
@@ -2670,7 +4640,7 @@
             "monitoring_type": 0,
             "muted": false,
             "name": "TheDotNetDocs",
-            "prev_ver": 419430400,
+            "prev_ver": 419430401,
             "private_settings": {},
             "push-to-mute": false,
             "push-to-mute-delay": 0,
@@ -2713,7 +4683,7 @@
             "monitoring_type": 0,
             "muted": false,
             "name": "Ending",
-            "prev_ver": 419430400,
+            "prev_ver": 419430401,
             "private_settings": {},
             "push-to-mute": false,
             "push-to-mute-delay": 0,
@@ -2917,7 +4887,7 @@
             "monitoring_type": 0,
             "muted": false,
             "name": "StreamEnding",
-            "prev_ver": 419430400,
+            "prev_ver": 419430401,
             "private_settings": {},
             "push-to-mute": false,
             "push-to-mute-delay": 0,
@@ -2942,7 +4912,7 @@
             "monitoring_type": 0,
             "muted": false,
             "name": "SeeYouNextTime",
-            "prev_ver": 419430400,
+            "prev_ver": 419430401,
             "private_settings": {},
             "push-to-mute": false,
             "push-to-mute-delay": 0,
@@ -2971,7 +4941,7 @@
             "monitoring_type": 0,
             "muted": false,
             "name": "Base Template",
-            "prev_ver": 419430400,
+            "prev_ver": 419430401,
             "private_settings": {},
             "push-to-mute": false,
             "push-to-mute-delay": 0,
@@ -3059,7 +5029,9 @@
                             "x": 0.0,
                             "y": 0.0
                         },
-                        "private_settings": {},
+                        "private_settings": {
+                            "collapsed": true
+                        },
                         "rot": 0.0,
                         "scale": {
                             "x": 1.0,
@@ -3086,7 +5058,7 @@
             "monitoring_type": 0,
             "muted": false,
             "name": "Frame",
-            "prev_ver": 419430400,
+            "prev_ver": 419430401,
             "private_settings": {},
             "push-to-mute": false,
             "push-to-mute-delay": 0,
@@ -3117,7 +5089,7 @@
                     "monitoring_type": 0,
                     "muted": false,
                     "name": "Color Correction",
-                    "prev_ver": 419430400,
+                    "prev_ver": 419430401,
                     "private_settings": {},
                     "push-to-mute": false,
                     "push-to-mute-delay": 0,
@@ -3138,7 +5110,7 @@
             "monitoring_type": 0,
             "muted": false,
             "name": "Twitter Icon",
-            "prev_ver": 419430400,
+            "prev_ver": 419430401,
             "private_settings": {},
             "push-to-mute": false,
             "push-to-mute-delay": 0,
@@ -3168,7 +5140,7 @@
             "monitoring_type": 0,
             "muted": false,
             "name": "Active Speaker",
-            "prev_ver": 419430400,
+            "prev_ver": 419430401,
             "private_settings": {},
             "push-to-mute": false,
             "push-to-mute-delay": 0,
@@ -3195,14 +5167,12 @@
                 "libobs.hide_scene_item.Active Speaker": [],
                 "libobs.hide_scene_item.Background": [],
                 "libobs.hide_scene_item.Screen Share": [],
-                "libobs.hide_scene_item.Screen Share AV Feed": [],
                 "libobs.hide_scene_item.Speaker 1": [],
                 "libobs.hide_scene_item.Speaker 2": [],
                 "libobs.hide_scene_item.Speaker 3": [],
                 "libobs.show_scene_item.Active Speaker": [],
                 "libobs.show_scene_item.Background": [],
                 "libobs.show_scene_item.Screen Share": [],
-                "libobs.show_scene_item.Screen Share AV Feed": [],
                 "libobs.show_scene_item.Speaker 1": [],
                 "libobs.show_scene_item.Speaker 2": [],
                 "libobs.show_scene_item.Speaker 3": []
@@ -3211,8 +5181,8 @@
             "mixers": 0,
             "monitoring_type": 0,
             "muted": false,
-            "name": "Screenshare with Heads",
-            "prev_ver": 419430400,
+            "name": "Screenshare with Heads (2-3)",
+            "prev_ver": 419430401,
             "private_settings": {},
             "push-to-mute": false,
             "push-to-mute-delay": 0,
@@ -3325,7 +5295,7 @@
                         "crop_top": 0,
                         "group_item_backup": true,
                         "id": 14,
-                        "locked": false,
+                        "locked": true,
                         "name": "Screen Share AV Feed",
                         "pos": {
                             "x": 174.0,
@@ -3354,7 +5324,7 @@
                         "crop_top": 0,
                         "group_item_backup": true,
                         "id": 13,
-                        "locked": false,
+                        "locked": true,
                         "name": "Frame",
                         "pos": {
                             "x": 135.0,
@@ -3418,7 +5388,7 @@
                         "name": "Speaker 3 AV Feed",
                         "pos": {
                             "x": 1145.8502197265625,
-                            "y": 881.54998779296875
+                            "y": 881.550048828125
                         },
                         "private_settings": {},
                         "rot": 0.0,
@@ -3511,7 +5481,7 @@
                         "rot": 0.0,
                         "scale": {
                             "x": 0.33333331346511841,
-                            "y": 0.3266129195690155
+                            "y": 0.32661294937133789
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -3530,7 +5500,7 @@
                         "crop_top": 0,
                         "group_item_backup": false,
                         "id": 18,
-                        "locked": false,
+                        "locked": true,
                         "name": "Speaker 3",
                         "pos": {
                             "x": 1140.000244140625,
@@ -3658,7 +5628,7 @@
                         "rot": 0.0,
                         "scale": {
                             "x": 0.33333331346511841,
-                            "y": 0.3266129195690155
+                            "y": 0.32661294937133789
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -3677,7 +5647,7 @@
                         "crop_top": 0,
                         "group_item_backup": false,
                         "id": 16,
-                        "locked": false,
+                        "locked": true,
                         "name": "Speaker 2",
                         "pos": {
                             "x": 420.000244140625,
@@ -3740,7 +5710,7 @@
                         "locked": true,
                         "name": "Speaker 1 Label",
                         "pos": {
-                            "x": 790.8001708984375,
+                            "x": 790.80023193359375,
                             "y": 1042.199951171875
                         },
                         "private_settings": {},
@@ -3855,7 +5825,7 @@
                         "crop_top": 0,
                         "group_item_backup": false,
                         "id": 17,
-                        "locked": false,
+                        "locked": true,
                         "name": "Active Speaker",
                         "pos": {
                             "x": 0.0,
@@ -3893,7 +5863,7 @@
             "monitoring_type": 0,
             "muted": true,
             "name": "Screen Share AV Feed",
-            "prev_ver": 419430400,
+            "prev_ver": 419430401,
             "private_settings": {
                 "mixer_hidden": true
             },
@@ -3928,7 +5898,7 @@
             "monitoring_type": 0,
             "muted": false,
             "name": "Screenshare Full Screen",
-            "prev_ver": 419430400,
+            "prev_ver": 419430401,
             "private_settings": {},
             "push-to-mute": false,
             "push-to-mute-delay": 0,
