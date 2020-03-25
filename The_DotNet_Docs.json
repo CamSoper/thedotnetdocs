@@ -1,6 +1,6 @@
 {
-    "current_program_scene": "Chatting (2-3)",
-    "current_scene": "Chatting (2-3)",
+    "current_program_scene": "Chatting (3)",
+    "current_scene": "Chatting (3)",
     "current_transition": "Fade",
     "groups": [
         {
@@ -858,19 +858,19 @@
     "scaling_off_y": 0.0,
     "scene_order": [
         {
-            "name": "Chatting (2-3)"
+            "name": "Chatting (3)"
         },
         {
-            "name": "Chatting (4)"
+            "name": "Chatting (2 or 4)"
         },
         {
             "name": "Single Speaker"
         },
         {
-            "name": "Screenshare with Heads (2-3)"
+            "name": "Screenshare with Heads (1 or 3)"
         },
         {
-            "name": "Screenshare with Heads (4)"
+            "name": "Screenshare with Heads (2 or 4)"
         },
         {
             "name": "Screenshare Full Screen"
@@ -916,7 +916,7 @@
             "mixers": 0,
             "monitoring_type": 0,
             "muted": false,
-            "name": "Screenshare with Heads (4)",
+            "name": "Screenshare with Heads (2 or 4)",
             "prev_ver": 419430401,
             "private_settings": {},
             "push-to-mute": false,
@@ -1122,7 +1122,7 @@
                         "locked": true,
                         "name": "Speaker 4 AV Feed",
                         "pos": {
-                            "x": 1341.550048828125,
+                            "x": 258.54998779296875,
                             "y": 882.67498779296875
                         },
                         "private_settings": {},
@@ -1151,7 +1151,7 @@
                         "locked": true,
                         "name": "Speaker 4 Label",
                         "pos": {
-                            "x": 1343.800048828125,
+                            "x": 260.79998779296875,
                             "y": 1041.9749755859375
                         },
                         "private_settings": {},
@@ -1180,7 +1180,7 @@
                         "locked": true,
                         "name": "Twitter Icon",
                         "pos": {
-                            "x": 1343.3499755859375,
+                            "x": 260.34994506835938,
                             "y": 1042.64990234375
                         },
                         "private_settings": {},
@@ -1209,7 +1209,7 @@
                         "locked": true,
                         "name": "Frame",
                         "pos": {
-                            "x": 1333.0,
+                            "x": 250.0,
                             "y": 877.27496337890625
                         },
                         "private_settings": {},
@@ -1238,7 +1238,7 @@
                         "locked": true,
                         "name": "Speaker 4",
                         "pos": {
-                            "x": 1333.0,
+                            "x": 250.0,
                             "y": 877.27496337890625
                         },
                         "private_settings": {
@@ -1269,7 +1269,7 @@
                         "locked": true,
                         "name": "Speaker 3 AV Feed",
                         "pos": {
-                            "x": 978.8499755859375,
+                            "x": 1335.8499755859375,
                             "y": 881.3250732421875
                         },
                         "private_settings": {},
@@ -1298,7 +1298,7 @@
                         "locked": true,
                         "name": "Speaker 3 Label",
                         "pos": {
-                            "x": 983.57501220703125,
+                            "x": 1340.574951171875,
                             "y": 1041.862548828125
                         },
                         "private_settings": {},
@@ -1327,7 +1327,7 @@
                         "locked": true,
                         "name": "Twitter Icon",
                         "pos": {
-                            "x": 983.3499755859375,
+                            "x": 1340.3499755859375,
                             "y": 1042.425048828125
                         },
                         "private_settings": {},
@@ -1356,7 +1356,7 @@
                         "locked": true,
                         "name": "Frame",
                         "pos": {
-                            "x": 973.0,
+                            "x": 1330.0,
                             "y": 877.04998779296875
                         },
                         "private_settings": {},
@@ -1385,7 +1385,7 @@
                         "locked": true,
                         "name": "Speaker 3",
                         "pos": {
-                            "x": 973.0,
+                            "x": 1330.0,
                             "y": 877.04998779296875
                         },
                         "private_settings": {
@@ -1416,7 +1416,7 @@
                         "locked": true,
                         "name": "Speaker 2 AV Feed",
                         "pos": {
-                            "x": 258.39999389648438,
+                            "x": 615.4000244140625,
                             "y": 882.2249755859375
                         },
                         "private_settings": {},
@@ -1445,7 +1445,7 @@
                         "locked": true,
                         "name": "Speaker 2 Label",
                         "pos": {
-                            "x": 266.04998779296875,
+                            "x": 623.04998779296875,
                             "y": 1041.9749755859375
                         },
                         "private_settings": {},
@@ -1474,7 +1474,7 @@
                         "locked": true,
                         "name": "Twitter Icon",
                         "pos": {
-                            "x": 263.3499755859375,
+                            "x": 620.3499755859375,
                             "y": 1042.64990234375
                         },
                         "private_settings": {},
@@ -1503,7 +1503,7 @@
                         "locked": true,
                         "name": "Frame",
                         "pos": {
-                            "x": 253.0,
+                            "x": 610.0,
                             "y": 877.27496337890625
                         },
                         "private_settings": {},
@@ -1532,7 +1532,7 @@
                         "locked": true,
                         "name": "Speaker 2",
                         "pos": {
-                            "x": 253.0,
+                            "x": 610.0,
                             "y": 877.27496337890625
                         },
                         "private_settings": {
@@ -1563,7 +1563,7 @@
                         "locked": true,
                         "name": "Speaker 1 AV Feed",
                         "pos": {
-                            "x": 620.20001220703125,
+                            "x": 977.20001220703125,
                             "y": 883.5748291015625
                         },
                         "private_settings": {},
@@ -1592,7 +1592,7 @@
                         "locked": true,
                         "name": "Speaker 1 Label",
                         "pos": {
-                            "x": 623.7999267578125,
+                            "x": 980.7999267578125,
                             "y": 1041.9749755859375
                         },
                         "private_settings": {},
@@ -1621,7 +1621,7 @@
                         "locked": true,
                         "name": "Twitter Icon",
                         "pos": {
-                            "x": 623.34991455078125,
+                            "x": 980.34991455078125,
                             "y": 1042.64990234375
                         },
                         "private_settings": {},
@@ -1650,7 +1650,7 @@
                         "locked": true,
                         "name": "Frame",
                         "pos": {
-                            "x": 613.0,
+                            "x": 970.0,
                             "y": 877.27496337890625
                         },
                         "private_settings": {},
@@ -1679,7 +1679,7 @@
                         "locked": true,
                         "name": "Speaker 1",
                         "pos": {
-                            "x": 613.0,
+                            "x": 970.0,
                             "y": 877.27496337890625
                         },
                         "private_settings": {
@@ -1819,7 +1819,7 @@
             "mixers": 0,
             "monitoring_type": 0,
             "muted": false,
-            "name": "Chatting (4)",
+            "name": "Chatting (2 or 4)",
             "prev_ver": 419430401,
             "private_settings": {},
             "push-to-mute": false,
@@ -1936,8 +1936,8 @@
                         "locked": true,
                         "name": "Speaker 4 AV Feed",
                         "pos": {
-                            "x": 987.425048828125,
-                            "y": 547.744140625
+                            "x": 127.42500305175781,
+                            "y": 548.28167724609375
                         },
                         "private_settings": {},
                         "rot": 0.0,
@@ -1965,8 +1965,8 @@
                         "locked": true,
                         "name": "Speaker 4 Label",
                         "pos": {
-                            "x": 992.800048828125,
-                            "y": 928.29412841796875
+                            "x": 132.80000305175781,
+                            "y": 928.8316650390625
                         },
                         "private_settings": {},
                         "rot": 0.0,
@@ -1994,8 +1994,8 @@
                         "locked": true,
                         "name": "Twitter Icon",
                         "pos": {
-                            "x": 991.72491455078125,
-                            "y": 929.9063720703125
+                            "x": 131.72486877441406,
+                            "y": 930.4439697265625
                         },
                         "private_settings": {},
                         "rot": 0.0,
@@ -2023,8 +2023,8 @@
                         "locked": true,
                         "name": "Frame",
                         "pos": {
-                            "x": 967.00006103515625,
-                            "y": 534.8441162109375
+                            "x": 107.0,
+                            "y": 535.38165283203125
                         },
                         "private_settings": {},
                         "rot": 0.0,
@@ -2049,11 +2049,11 @@
                         "crop_top": 0,
                         "group_item_backup": false,
                         "id": 8,
-                        "locked": true,
+                        "locked": false,
                         "name": "Speaker 4",
                         "pos": {
-                            "x": 967.00006103515625,
-                            "y": 534.8441162109375
+                            "x": 107.0,
+                            "y": 535.38165283203125
                         },
                         "private_settings": {
                             "collapsed": true
@@ -2377,7 +2377,7 @@
                         "locked": true,
                         "name": "Speaker 1 AV Feed",
                         "pos": {
-                            "x": 124.20001220703125,
+                            "x": 984.2000732421875,
                             "y": 549.89373779296875
                         },
                         "private_settings": {},
@@ -2406,7 +2406,7 @@
                         "locked": true,
                         "name": "Speaker 1 Label",
                         "pos": {
-                            "x": 132.79988098144531,
+                            "x": 992.7999267578125,
                             "y": 928.29412841796875
                         },
                         "private_settings": {},
@@ -2435,7 +2435,7 @@
                         "locked": true,
                         "name": "Twitter Icon",
                         "pos": {
-                            "x": 131.72474670410156,
+                            "x": 991.72479248046875,
                             "y": 929.9063720703125
                         },
                         "private_settings": {},
@@ -2464,7 +2464,7 @@
                         "locked": true,
                         "name": "Frame",
                         "pos": {
-                            "x": 107.00000762939453,
+                            "x": 967.00006103515625,
                             "y": 534.8441162109375
                         },
                         "private_settings": {},
@@ -2493,7 +2493,7 @@
                         "locked": true,
                         "name": "Speaker 1",
                         "pos": {
-                            "x": 107.00000762939453,
+                            "x": 967.00006103515625,
                             "y": 534.8441162109375
                         },
                         "private_settings": {
@@ -3794,7 +3794,7 @@
             "mixers": 0,
             "monitoring_type": 0,
             "muted": false,
-            "name": "Chatting (2-3)",
+            "name": "Chatting (3)",
             "prev_ver": 419430401,
             "private_settings": {},
             "push-to-mute": false,
@@ -4325,7 +4325,7 @@
                             "y": 534.8441162109375
                         },
                         "private_settings": {
-                            "collapsed": false
+                            "collapsed": true
                         },
                         "rot": 0.0,
                         "scale": {
@@ -5181,7 +5181,7 @@
             "mixers": 0,
             "monitoring_type": 0,
             "muted": false,
-            "name": "Screenshare with Heads (2-3)",
+            "name": "Screenshare with Heads (1 or 3)",
             "prev_ver": 419430401,
             "private_settings": {},
             "push-to-mute": false,
