@@ -1,6 +1,6 @@
 {
     "current_program_scene": "Chatting (3)",
-    "current_scene": "Chatting (3)",
+    "current_scene": "Single Speaker",
     "current_transition": "Fade",
     "groups": [
         {
@@ -20,7 +20,7 @@
             "monitoring_type": 0,
             "muted": false,
             "name": "Screen Share",
-            "prev_ver": 419430404,
+            "prev_ver": 419430408,
             "private_settings": {},
             "push-to-mute": false,
             "push-to-mute-delay": 0,
@@ -113,7 +113,7 @@
             "monitoring_type": 0,
             "muted": false,
             "name": "Background",
-            "prev_ver": 419430404,
+            "prev_ver": 419430408,
             "private_settings": {},
             "push-to-mute": false,
             "push-to-mute-delay": 0,
@@ -210,7 +210,7 @@
             "monitoring_type": 0,
             "muted": false,
             "name": "Speaker 1",
-            "prev_ver": 419430404,
+            "prev_ver": 419430408,
             "private_settings": {},
             "push-to-mute": false,
             "push-to-mute-delay": 0,
@@ -230,9 +230,9 @@
                         },
                         "bounds_align": 0,
                         "bounds_type": 2,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
+                        "crop_bottom": 200,
+                        "crop_left": 160,
+                        "crop_right": 160,
                         "crop_top": 0,
                         "group_item_backup": false,
                         "id": 9,
@@ -240,7 +240,7 @@
                         "name": "Speaker 1 AV Feed",
                         "pos": {
                             "x": 32.0,
-                            "y": 27.999267578125
+                            "y": 27.999300003051758
                         },
                         "private_settings": {},
                         "rot": 0.0,
@@ -365,7 +365,7 @@
             "monitoring_type": 0,
             "muted": false,
             "name": "Speaker 2",
-            "prev_ver": 419430404,
+            "prev_ver": 419430408,
             "private_settings": {},
             "push-to-mute": false,
             "push-to-mute-delay": 0,
@@ -385,10 +385,10 @@
                         },
                         "bounds_align": 0,
                         "bounds_type": 2,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
+                        "crop_bottom": 200,
+                        "crop_left": 160,
+                        "crop_right": 160,
+                        "crop_top": 2,
                         "group_item_backup": false,
                         "id": 13,
                         "locked": true,
@@ -520,7 +520,7 @@
             "monitoring_type": 0,
             "muted": false,
             "name": "Speaker 3",
-            "prev_ver": 419430404,
+            "prev_ver": 419430408,
             "private_settings": {},
             "push-to-mute": false,
             "push-to-mute-delay": 0,
@@ -540,9 +540,9 @@
                         },
                         "bounds_align": 0,
                         "bounds_type": 2,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
+                        "crop_bottom": 200,
+                        "crop_left": 160,
+                        "crop_right": 160,
                         "crop_top": 0,
                         "group_item_backup": false,
                         "id": 16,
@@ -675,7 +675,7 @@
             "monitoring_type": 0,
             "muted": false,
             "name": "Speaker 4",
-            "prev_ver": 419430404,
+            "prev_ver": 419430408,
             "private_settings": {},
             "push-to-mute": false,
             "push-to-mute-delay": 0,
@@ -695,9 +695,9 @@
                         },
                         "bounds_align": 0,
                         "bounds_type": 2,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
+                        "crop_bottom": 200,
+                        "crop_left": 160,
+                        "crop_right": 160,
                         "crop_top": 0,
                         "group_item_backup": false,
                         "id": 19,
@@ -890,648 +890,9 @@
         },
         {
             "name": "Base Template"
-        },
-        {
-            "name": "Screenshare with Heads (1 or 3) with Meat"
-        },
-        {
-            "name": "Chatting (3) 2"
-        },
-        {
-            "name": "Meat Cam"
         }
     ],
     "sources": [
-        {
-            "balance": 0.5,
-            "deinterlace_field_order": 0,
-            "deinterlace_mode": 0,
-            "enabled": true,
-            "flags": 0,
-            "hotkeys": {
-                "OBSBasic.SelectScene": [],
-                "libobs.hide_scene_item.Active Skype Speaker (not local)": [],
-                "libobs.hide_scene_item.Background": [],
-                "libobs.hide_scene_item.Local Skype Speaker": [],
-                "libobs.hide_scene_item.Speaker 1": [],
-                "libobs.hide_scene_item.Speaker 2": [],
-                "libobs.hide_scene_item.Speaker 3": [],
-                "libobs.show_scene_item.Active Skype Speaker (not local)": [],
-                "libobs.show_scene_item.Background": [],
-                "libobs.show_scene_item.Local Skype Speaker": [],
-                "libobs.show_scene_item.Speaker 1": [],
-                "libobs.show_scene_item.Speaker 2": [],
-                "libobs.show_scene_item.Speaker 3": []
-            },
-            "id": "scene",
-            "mixers": 0,
-            "monitoring_type": 0,
-            "muted": false,
-            "name": "Chatting (3) 2",
-            "prev_ver": 419430404,
-            "private_settings": {},
-            "push-to-mute": false,
-            "push-to-mute-delay": 0,
-            "push-to-talk": false,
-            "push-to-talk-delay": 0,
-            "settings": {
-                "custom_size": false,
-                "id_counter": 6,
-                "items": [
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 0,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": true,
-                        "id": 2,
-                        "locked": true,
-                        "name": "Base",
-                        "pos": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "private_settings": {},
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "scale_filter": "disable",
-                        "visible": true
-                    },
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 0,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": true,
-                        "id": 3,
-                        "locked": true,
-                        "name": "Detail",
-                        "pos": {
-                            "x": 970.0,
-                            "y": 0.0
-                        },
-                        "private_settings": {},
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "scale_filter": "disable",
-                        "visible": true
-                    },
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 0,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": false,
-                        "id": 1,
-                        "locked": false,
-                        "name": "Background",
-                        "pos": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "private_settings": {
-                            "collapsed": true
-                        },
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "scale_filter": "disable",
-                        "visible": true
-                    },
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 1545.0,
-                            "y": 856.5
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 2,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": true,
-                        "id": 16,
-                        "locked": true,
-                        "name": "Speaker 3 AV Feed",
-                        "pos": {
-                            "x": 980.97503662109375,
-                            "y": 60.769210815429688
-                        },
-                        "private_settings": {},
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 0.53750002384185791,
-                            "y": 0.53750002384185791
-                        },
-                        "scale_filter": "disable",
-                        "visible": true
-                    },
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 0,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": true,
-                        "id": 15,
-                        "locked": true,
-                        "name": "Speaker 3 Label",
-                        "pos": {
-                            "x": 992.2625732421875,
-                            "y": 444.27536010742188
-                        },
-                        "private_settings": {},
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 0.53750002384185791,
-                            "y": 0.53750002384185791
-                        },
-                        "scale_filter": "disable",
-                        "visible": true
-                    },
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 0,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": true,
-                        "id": 3,
-                        "locked": true,
-                        "name": "Twitter Icon",
-                        "pos": {
-                            "x": 991.72503662109375,
-                            "y": 445.61911010742188
-                        },
-                        "private_settings": {},
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 0.068636760115623474,
-                            "y": 0.068449899554252625
-                        },
-                        "scale_filter": "disable",
-                        "visible": true
-                    },
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 0,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": true,
-                        "id": 4,
-                        "locked": true,
-                        "name": "Frame",
-                        "pos": {
-                            "x": 967.00006103515625,
-                            "y": 50.55657958984375
-                        },
-                        "private_settings": {},
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 0.79629629850387573,
-                            "y": 0.78024214506149292
-                        },
-                        "scale_filter": "disable",
-                        "visible": true
-                    },
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 0,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": false,
-                        "id": 2,
-                        "locked": false,
-                        "name": "Speaker 3",
-                        "pos": {
-                            "x": 967.00006103515625,
-                            "y": 50.55657958984375
-                        },
-                        "private_settings": {
-                            "collapsed": false
-                        },
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 0.53750002384185791,
-                            "y": 0.53750002384185791
-                        },
-                        "scale_filter": "disable",
-                        "visible": true
-                    },
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 1544.0,
-                            "y": 857.0
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 2,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": true,
-                        "id": 13,
-                        "locked": true,
-                        "name": "Speaker 2 AV Feed",
-                        "pos": {
-                            "x": 119.90000152587891,
-                            "y": 62.919116973876953
-                        },
-                        "private_settings": {},
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 0.53750002384185791,
-                            "y": 0.53750002384185791
-                        },
-                        "scale_filter": "disable",
-                        "visible": true
-                    },
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 0,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": true,
-                        "id": 12,
-                        "locked": true,
-                        "name": "Speaker 2 Label",
-                        "pos": {
-                            "x": 138.17500305175781,
-                            "y": 444.54412841796875
-                        },
-                        "private_settings": {},
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 0.53750002384185791,
-                            "y": 0.53750002384185791
-                        },
-                        "scale_filter": "disable",
-                        "visible": true
-                    },
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 0,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": true,
-                        "id": 3,
-                        "locked": true,
-                        "name": "Twitter Icon",
-                        "pos": {
-                            "x": 131.72492980957031,
-                            "y": 446.1563720703125
-                        },
-                        "private_settings": {},
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 0.068636760115623474,
-                            "y": 0.068449899554252625
-                        },
-                        "scale_filter": "disable",
-                        "visible": true
-                    },
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 0,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": true,
-                        "id": 4,
-                        "locked": true,
-                        "name": "Frame",
-                        "pos": {
-                            "x": 107.0,
-                            "y": 51.0941162109375
-                        },
-                        "private_settings": {},
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 0.79629629850387573,
-                            "y": 0.78024214506149292
-                        },
-                        "scale_filter": "disable",
-                        "visible": true
-                    },
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 0,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": false,
-                        "id": 3,
-                        "locked": false,
-                        "name": "Speaker 2",
-                        "pos": {
-                            "x": 107.0,
-                            "y": 51.0941162109375
-                        },
-                        "private_settings": {
-                            "collapsed": true
-                        },
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 0.53750002384185791,
-                            "y": 0.53750002384185791
-                        },
-                        "scale_filter": "disable",
-                        "visible": true
-                    },
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 1531.0,
-                            "y": 851.0
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 2,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": true,
-                        "id": 9,
-                        "locked": true,
-                        "name": "Speaker 1 AV Feed",
-                        "pos": {
-                            "x": 538.20013427734375,
-                            "y": 549.89373779296875
-                        },
-                        "private_settings": {},
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 0.53750002384185791,
-                            "y": 0.53750002384185791
-                        },
-                        "scale_filter": "disable",
-                        "visible": true
-                    },
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 0,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": true,
-                        "id": 7,
-                        "locked": true,
-                        "name": "Speaker 1 Label",
-                        "pos": {
-                            "x": 546.79998779296875,
-                            "y": 928.29412841796875
-                        },
-                        "private_settings": {},
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 0.53750002384185791,
-                            "y": 0.53750002384185791
-                        },
-                        "scale_filter": "disable",
-                        "visible": true
-                    },
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 0,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": true,
-                        "id": 6,
-                        "locked": true,
-                        "name": "Twitter Icon",
-                        "pos": {
-                            "x": 545.724853515625,
-                            "y": 929.9063720703125
-                        },
-                        "private_settings": {},
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 0.068636760115623474,
-                            "y": 0.068449899554252625
-                        },
-                        "scale_filter": "disable",
-                        "visible": true
-                    },
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 0,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": true,
-                        "id": 8,
-                        "locked": true,
-                        "name": "Frame",
-                        "pos": {
-                            "x": 521.0001220703125,
-                            "y": 534.8441162109375
-                        },
-                        "private_settings": {},
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 0.79629629850387573,
-                            "y": 0.78024214506149292
-                        },
-                        "scale_filter": "disable",
-                        "visible": true
-                    },
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 0,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": false,
-                        "id": 4,
-                        "locked": false,
-                        "name": "Speaker 1",
-                        "pos": {
-                            "x": 521.0001220703125,
-                            "y": 534.8441162109375
-                        },
-                        "private_settings": {
-                            "collapsed": false
-                        },
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 0.53750002384185791,
-                            "y": 0.53750002384185791
-                        },
-                        "scale_filter": "disable",
-                        "visible": true
-                    },
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 0,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": false,
-                        "id": 5,
-                        "locked": false,
-                        "name": "Active Skype Speaker (not local)",
-                        "pos": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "private_settings": {},
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "scale_filter": "disable",
-                        "visible": true
-                    },
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 0,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": false,
-                        "id": 6,
-                        "locked": false,
-                        "name": "Local Skype Speaker",
-                        "pos": {
-                            "x": 252.0,
-                            "y": 386.0
-                        },
-                        "private_settings": {},
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "scale_filter": "disable",
-                        "visible": true
-                    }
-                ]
-            },
-            "sync": 0,
-            "versioned_id": "scene",
-            "volume": 1.0
-        },
         {
             "balance": 0.5,
             "deinterlace_field_order": 0,
@@ -1552,7 +913,7 @@
             "monitoring_type": 0,
             "muted": false,
             "name": "Screenshare Full Screen",
-            "prev_ver": 419430404,
+            "prev_ver": 419430408,
             "private_settings": {},
             "push-to-mute": false,
             "push-to-mute-delay": 0,
@@ -1672,7 +1033,7 @@
             "monitoring_type": 0,
             "muted": true,
             "name": "Screen Share AV Feed",
-            "prev_ver": 419430404,
+            "prev_ver": 419430408,
             "private_settings": {
                 "mixer_hidden": true
             },
@@ -1683,7 +1044,7 @@
             "settings": {
                 "ndi_fix_alpha_blending": false,
                 "ndi_recv_hw_accel": true,
-                "ndi_source_name": "VALAR-MORGHULIS (Skype - Shared screen)"
+                "ndi_source_name": "THEDOTNETDOCS (Skype - Shared screen)"
             },
             "sync": 0,
             "versioned_id": "ndi_source",
@@ -1717,7 +1078,7 @@
             "monitoring_type": 0,
             "muted": false,
             "name": "Screenshare with Heads (1 or 3)",
-            "prev_ver": 419430404,
+            "prev_ver": 419430408,
             "private_settings": {},
             "push-to-mute": false,
             "push-to-mute-delay": 0,
@@ -1895,7 +1256,7 @@
                             "y": 0.0
                         },
                         "private_settings": {
-                            "collapsed": true
+                            "collapsed": false
                         },
                         "rot": 0.0,
                         "scale": {
@@ -1913,9 +1274,9 @@
                         },
                         "bounds_align": 0,
                         "bounds_type": 2,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
+                        "crop_bottom": 200,
+                        "crop_left": 160,
+                        "crop_right": 160,
                         "crop_top": 0,
                         "group_item_backup": true,
                         "id": 16,
@@ -2060,10 +1421,10 @@
                         },
                         "bounds_align": 0,
                         "bounds_type": 2,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
+                        "crop_bottom": 200,
+                        "crop_left": 160,
+                        "crop_right": 160,
+                        "crop_top": 2,
                         "group_item_backup": true,
                         "id": 13,
                         "locked": true,
@@ -2207,9 +1568,9 @@
                         },
                         "bounds_align": 0,
                         "bounds_type": 2,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
+                        "crop_bottom": 200,
+                        "crop_left": 160,
+                        "crop_right": 160,
                         "crop_top": 0,
                         "group_item_backup": true,
                         "id": 9,
@@ -2427,7 +1788,7 @@
             "monitoring_type": 0,
             "muted": false,
             "name": "Active Skype Speaker (not local)",
-            "prev_ver": 419430404,
+            "prev_ver": 419430408,
             "private_settings": {},
             "push-to-mute": false,
             "push-to-mute-delay": 0,
@@ -2437,7 +1798,7 @@
                 "ndi_bw_mode": 2,
                 "ndi_fix_alpha_blending": false,
                 "ndi_recv_hw_accel": true,
-                "ndi_source_name": "VALAR-MORGHULIS (Skype - Active Speaker)"
+                "ndi_source_name": "THEDOTNETDOCS (Skype - Active Speaker)"
             },
             "sync": 0,
             "versioned_id": "ndi_source",
@@ -2461,7 +1822,7 @@
                     "monitoring_type": 0,
                     "muted": false,
                     "name": "Color Correction",
-                    "prev_ver": 419430404,
+                    "prev_ver": 419430408,
                     "private_settings": {},
                     "push-to-mute": false,
                     "push-to-mute-delay": 0,
@@ -2482,7 +1843,7 @@
             "monitoring_type": 0,
             "muted": false,
             "name": "Twitter Icon",
-            "prev_ver": 419430404,
+            "prev_ver": 419430408,
             "private_settings": {},
             "push-to-mute": false,
             "push-to-mute-delay": 0,
@@ -2507,7 +1868,7 @@
             "monitoring_type": 0,
             "muted": false,
             "name": "Frame",
-            "prev_ver": 419430404,
+            "prev_ver": 419430408,
             "private_settings": {},
             "push-to-mute": false,
             "push-to-mute-delay": 0,
@@ -2536,7 +1897,7 @@
             "monitoring_type": 0,
             "muted": false,
             "name": "Base Template",
-            "prev_ver": 419430404,
+            "prev_ver": 419430408,
             "private_settings": {},
             "push-to-mute": false,
             "push-to-mute-delay": 0,
@@ -2653,7 +2014,7 @@
             "monitoring_type": 0,
             "muted": false,
             "name": "SeeYouNextTime",
-            "prev_ver": 419430404,
+            "prev_ver": 419430408,
             "private_settings": {},
             "push-to-mute": false,
             "push-to-mute-delay": 0,
@@ -2678,7 +2039,7 @@
             "monitoring_type": 0,
             "muted": false,
             "name": "StreamEnding",
-            "prev_ver": 419430404,
+            "prev_ver": 419430408,
             "private_settings": {},
             "push-to-mute": false,
             "push-to-mute-delay": 0,
@@ -2713,7 +2074,7 @@
             "monitoring_type": 0,
             "muted": false,
             "name": "Ending",
-            "prev_ver": 419430404,
+            "prev_ver": 419430408,
             "private_settings": {},
             "push-to-mute": false,
             "push-to-mute-delay": 0,
@@ -2917,7 +2278,7 @@
             "monitoring_type": 0,
             "muted": false,
             "name": "TheDotNetDocs",
-            "prev_ver": 419430404,
+            "prev_ver": 419430408,
             "private_settings": {},
             "push-to-mute": false,
             "push-to-mute-delay": 0,
@@ -2950,7 +2311,7 @@
             "monitoring_type": 0,
             "muted": false,
             "name": "StreamStarting",
-            "prev_ver": 419430404,
+            "prev_ver": 419430408,
             "private_settings": {},
             "push-to-mute": false,
             "push-to-mute-delay": 0,
@@ -2983,7 +2344,7 @@
             "monitoring_type": 0,
             "muted": false,
             "name": "Starting",
-            "prev_ver": 419430404,
+            "prev_ver": 419430408,
             "private_settings": {},
             "push-to-mute": false,
             "push-to-mute-delay": 0,
@@ -3158,7 +2519,7 @@
             "monitoring_type": 0,
             "muted": false,
             "name": "Detail",
-            "prev_ver": 419430404,
+            "prev_ver": 419430408,
             "private_settings": {},
             "push-to-mute": false,
             "push-to-mute-delay": 0,
@@ -3183,7 +2544,7 @@
             "monitoring_type": 0,
             "muted": false,
             "name": "Base",
-            "prev_ver": 419430404,
+            "prev_ver": 419430408,
             "private_settings": {},
             "push-to-mute": false,
             "push-to-mute-delay": 0,
@@ -3222,7 +2583,7 @@
             "monitoring_type": 0,
             "muted": false,
             "name": "Chatting (3)",
-            "prev_ver": 419430404,
+            "prev_ver": 419430408,
             "private_settings": {},
             "push-to-mute": false,
             "push-to-mute-delay": 0,
@@ -3329,9 +2690,9 @@
                         },
                         "bounds_align": 0,
                         "bounds_type": 2,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
+                        "crop_bottom": 200,
+                        "crop_left": 160,
+                        "crop_right": 160,
                         "crop_top": 0,
                         "group_item_backup": true,
                         "id": 16,
@@ -3476,10 +2837,10 @@
                         },
                         "bounds_align": 0,
                         "bounds_type": 2,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
+                        "crop_bottom": 200,
+                        "crop_left": 160,
+                        "crop_right": 160,
+                        "crop_top": 2,
                         "group_item_backup": true,
                         "id": 13,
                         "locked": true,
@@ -3623,9 +2984,9 @@
                         },
                         "bounds_align": 0,
                         "bounds_type": 2,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
+                        "crop_bottom": 200,
+                        "crop_left": 160,
+                        "crop_right": 160,
                         "crop_top": 0,
                         "group_item_backup": true,
                         "id": 9,
@@ -3745,14 +3106,14 @@
                         "crop_top": 0,
                         "group_item_backup": false,
                         "id": 27,
-                        "locked": false,
+                        "locked": true,
                         "name": "Speaker 1",
                         "pos": {
                             "x": 521.0001220703125,
                             "y": 534.8441162109375
                         },
                         "private_settings": {
-                            "collapsed": false
+                            "collapsed": true
                         },
                         "rot": 0.0,
                         "scale": {
@@ -3805,7 +3166,7 @@
                         "crop_top": 0,
                         "group_item_backup": false,
                         "id": 31,
-                        "locked": false,
+                        "locked": true,
                         "name": "Local Skype Speaker",
                         "pos": {
                             "x": 252.0,
@@ -3848,7 +3209,7 @@
             "monitoring_type": 0,
             "muted": false,
             "name": "BRB",
-            "prev_ver": 419430404,
+            "prev_ver": 419430408,
             "private_settings": {},
             "push-to-mute": false,
             "push-to-mute-delay": 0,
@@ -4055,7 +3416,7 @@
             "monitoring_type": 0,
             "muted": false,
             "name": "BeRightBack",
-            "prev_ver": 419430404,
+            "prev_ver": 419430408,
             "private_settings": {},
             "push-to-mute": false,
             "push-to-mute-delay": 0,
@@ -4080,7 +3441,7 @@
             "monitoring_type": 0,
             "muted": false,
             "name": "will",
-            "prev_ver": 419430404,
+            "prev_ver": 419430408,
             "private_settings": {},
             "push-to-mute": false,
             "push-to-mute-delay": 0,
@@ -4133,7 +3494,7 @@
             "monitoring_type": 0,
             "muted": false,
             "name": "Single Speaker",
-            "prev_ver": 419430404,
+            "prev_ver": 419430408,
             "private_settings": {},
             "push-to-mute": false,
             "push-to-mute-delay": 0,
@@ -4240,9 +3601,9 @@
                         },
                         "bounds_align": 0,
                         "bounds_type": 2,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
+                        "crop_bottom": 200,
+                        "crop_left": 160,
+                        "crop_right": 160,
                         "crop_top": 0,
                         "group_item_backup": true,
                         "id": 19,
@@ -4387,9 +3748,9 @@
                         },
                         "bounds_align": 0,
                         "bounds_type": 2,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
+                        "crop_bottom": 200,
+                        "crop_left": 160,
+                        "crop_right": 160,
                         "crop_top": 0,
                         "group_item_backup": true,
                         "id": 16,
@@ -4534,10 +3895,10 @@
                         },
                         "bounds_align": 0,
                         "bounds_type": 2,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
+                        "crop_bottom": 200,
+                        "crop_left": 160,
+                        "crop_right": 160,
+                        "crop_top": 2,
                         "group_item_backup": true,
                         "id": 13,
                         "locked": true,
@@ -4681,9 +4042,9 @@
                         },
                         "bounds_align": 0,
                         "bounds_type": 2,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
+                        "crop_bottom": 200,
+                        "crop_left": 160,
+                        "crop_right": 160,
                         "crop_top": 0,
                         "group_item_backup": true,
                         "id": 9,
@@ -4691,7 +4052,7 @@
                         "name": "Speaker 1 AV Feed",
                         "pos": {
                             "x": 192.0,
-                            "y": 117.999267578125
+                            "y": 117.99929809570313
                         },
                         "private_settings": {},
                         "rot": 0.0,
@@ -4896,7 +4257,7 @@
             "monitoring_type": 0,
             "muted": false,
             "name": "Speaker 1 Label",
-            "prev_ver": 419430404,
+            "prev_ver": 419430408,
             "private_settings": {},
             "push-to-mute": false,
             "push-to-mute-delay": 0,
@@ -4933,7 +4294,7 @@
             "monitoring_type": 0,
             "muted": true,
             "name": "Speaker 1 AV Feed",
-            "prev_ver": 419430404,
+            "prev_ver": 419430408,
             "private_settings": {
                 "mixer_hidden": true
             },
@@ -4944,7 +4305,7 @@
             "settings": {
                 "ndi_fix_alpha_blending": false,
                 "ndi_recv_hw_accel": true,
-                "ndi_source_name": "VALAR-MORGHULIS (Skype - (Local))"
+                "ndi_source_name": "THEDOTNETDOCS (Skype - bloody templar)"
             },
             "sync": 0,
             "versioned_id": "ndi_source",
@@ -4962,7 +4323,7 @@
             "monitoring_type": 0,
             "muted": false,
             "name": "Speaker 2 Label",
-            "prev_ver": 419430404,
+            "prev_ver": 419430408,
             "private_settings": {},
             "push-to-mute": false,
             "push-to-mute-delay": 0,
@@ -4999,7 +4360,7 @@
             "monitoring_type": 0,
             "muted": true,
             "name": "Speaker 2 AV Feed",
-            "prev_ver": 419430404,
+            "prev_ver": 419430408,
             "private_settings": {
                 "mixer_hidden": true
             },
@@ -5010,7 +4371,7 @@
             "settings": {
                 "ndi_fix_alpha_blending": false,
                 "ndi_recv_hw_accel": true,
-                "ndi_source_name": "VALAR-MORGHULIS (Skype - davidpine07)"
+                "ndi_source_name": "THEDOTNETDOCS (Skype - bloody templar)"
             },
             "sync": 0,
             "versioned_id": "ndi_source",
@@ -5028,7 +4389,7 @@
             "monitoring_type": 0,
             "muted": false,
             "name": "Speaker 3 Label",
-            "prev_ver": 419430404,
+            "prev_ver": 419430408,
             "private_settings": {},
             "push-to-mute": false,
             "push-to-mute-delay": 0,
@@ -5065,7 +4426,7 @@
             "monitoring_type": 0,
             "muted": true,
             "name": "Speaker 3 AV Feed",
-            "prev_ver": 419430404,
+            "prev_ver": 419430408,
             "private_settings": {
                 "mixer_hidden": true
             },
@@ -5076,7 +4437,7 @@
             "settings": {
                 "ndi_fix_alpha_blending": false,
                 "ndi_recv_hw_accel": true,
-                "ndi_source_name": "VALAR-MORGHULIS ([Skype - live]tobias addie)"
+                "ndi_source_name": "THEDOTNETDOCS (Skype - bloody templar)"
             },
             "sync": 0,
             "versioned_id": "ndi_source",
@@ -5110,7 +4471,7 @@
             "monitoring_type": 0,
             "muted": false,
             "name": "Chatting (2 or 4)",
-            "prev_ver": 419430404,
+            "prev_ver": 419430408,
             "private_settings": {},
             "push-to-mute": false,
             "push-to-mute-delay": 0,
@@ -5217,9 +4578,9 @@
                         },
                         "bounds_align": 0,
                         "bounds_type": 2,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
+                        "crop_bottom": 200,
+                        "crop_left": 160,
+                        "crop_right": 160,
                         "crop_top": 0,
                         "group_item_backup": true,
                         "id": 19,
@@ -5354,7 +4715,7 @@
                             "y": 0.53750002384185791
                         },
                         "scale_filter": "disable",
-                        "visible": false
+                        "visible": true
                     },
                     {
                         "align": 5,
@@ -5364,9 +4725,9 @@
                         },
                         "bounds_align": 0,
                         "bounds_type": 2,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
+                        "crop_bottom": 200,
+                        "crop_left": 160,
+                        "crop_right": 160,
                         "crop_top": 0,
                         "group_item_backup": true,
                         "id": 16,
@@ -5493,7 +4854,7 @@
                             "y": 50.55657958984375
                         },
                         "private_settings": {
-                            "collapsed": true
+                            "collapsed": false
                         },
                         "rot": 0.0,
                         "scale": {
@@ -5501,7 +4862,7 @@
                             "y": 0.53750002384185791
                         },
                         "scale_filter": "disable",
-                        "visible": false
+                        "visible": true
                     },
                     {
                         "align": 5,
@@ -5511,10 +4872,10 @@
                         },
                         "bounds_align": 0,
                         "bounds_type": 2,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
+                        "crop_bottom": 200,
+                        "crop_left": 160,
+                        "crop_right": 160,
+                        "crop_top": 2,
                         "group_item_backup": true,
                         "id": 13,
                         "locked": true,
@@ -5658,9 +5019,9 @@
                         },
                         "bounds_align": 0,
                         "bounds_type": 2,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
+                        "crop_bottom": 200,
+                        "crop_left": 160,
+                        "crop_right": 160,
                         "crop_top": 0,
                         "group_item_backup": true,
                         "id": 9,
@@ -5787,7 +5148,7 @@
                             "y": 534.8441162109375
                         },
                         "private_settings": {
-                            "collapsed": false
+                            "collapsed": true
                         },
                         "rot": 0.0,
                         "scale": {
@@ -5873,7 +5234,7 @@
             "monitoring_type": 0,
             "muted": false,
             "name": "Speaker 4 Label",
-            "prev_ver": 419430404,
+            "prev_ver": 419430408,
             "private_settings": {},
             "push-to-mute": false,
             "push-to-mute-delay": 0,
@@ -5910,7 +5271,7 @@
             "monitoring_type": 0,
             "muted": true,
             "name": "Speaker 4 AV Feed",
-            "prev_ver": 419430404,
+            "prev_ver": 419430408,
             "private_settings": {
                 "mixer_hidden": true
             },
@@ -5957,7 +5318,7 @@
             "monitoring_type": 0,
             "muted": false,
             "name": "Screenshare with Heads (2 or 4)",
-            "prev_ver": 419430404,
+            "prev_ver": 419430408,
             "private_settings": {},
             "push-to-mute": false,
             "push-to-mute-delay": 0,
@@ -6135,7 +5496,7 @@
                             "y": 0.0
                         },
                         "private_settings": {
-                            "collapsed": true
+                            "collapsed": false
                         },
                         "rot": 0.0,
                         "scale": {
@@ -6153,9 +5514,9 @@
                         },
                         "bounds_align": 0,
                         "bounds_type": 2,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
+                        "crop_bottom": 200,
+                        "crop_left": 160,
+                        "crop_right": 160,
                         "crop_top": 0,
                         "group_item_backup": true,
                         "id": 19,
@@ -6300,9 +5661,9 @@
                         },
                         "bounds_align": 0,
                         "bounds_type": 2,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
+                        "crop_bottom": 200,
+                        "crop_left": 160,
+                        "crop_right": 160,
                         "crop_top": 0,
                         "group_item_backup": true,
                         "id": 16,
@@ -6447,10 +5808,10 @@
                         },
                         "bounds_align": 0,
                         "bounds_type": 2,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
+                        "crop_bottom": 200,
+                        "crop_left": 160,
+                        "crop_right": 160,
+                        "crop_top": 2,
                         "group_item_backup": true,
                         "id": 13,
                         "locked": true,
@@ -6594,9 +5955,9 @@
                         },
                         "bounds_align": 0,
                         "bounds_type": 2,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
+                        "crop_bottom": 200,
+                        "crop_left": 160,
+                        "crop_right": 160,
                         "crop_top": 0,
                         "group_item_backup": true,
                         "id": 9,
@@ -6804,993 +6165,6 @@
             "enabled": true,
             "flags": 0,
             "hotkeys": {
-                "OBSBasic.SelectScene": [],
-                "libobs.hide_scene_item.Active Skype Speaker (not local)": [],
-                "libobs.hide_scene_item.Local Skype Speaker": [],
-                "libobs.hide_scene_item.Meat Cam AV Feed": [],
-                "libobs.hide_scene_item.Meat Cam Caption": [],
-                "libobs.show_scene_item.Active Skype Speaker (not local)": [],
-                "libobs.show_scene_item.Local Skype Speaker": [],
-                "libobs.show_scene_item.Meat Cam AV Feed": [],
-                "libobs.show_scene_item.Meat Cam Caption": []
-            },
-            "id": "scene",
-            "mixers": 0,
-            "monitoring_type": 0,
-            "muted": false,
-            "name": "Meat Cam",
-            "prev_ver": 419430404,
-            "private_settings": {},
-            "push-to-mute": false,
-            "push-to-mute-delay": 0,
-            "push-to-talk": false,
-            "push-to-talk-delay": 0,
-            "settings": {
-                "custom_size": false,
-                "id_counter": 5,
-                "items": [
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 0,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": false,
-                        "id": 3,
-                        "locked": true,
-                        "name": "Meat Cam AV Feed",
-                        "pos": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "private_settings": {},
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "scale_filter": "disable",
-                        "visible": true
-                    },
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 0,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": false,
-                        "id": 4,
-                        "locked": true,
-                        "name": "Meat Cam Caption",
-                        "pos": {
-                            "x": 52.0,
-                            "y": 947.0
-                        },
-                        "private_settings": {
-                            "color": "",
-                            "color-preset": 0
-                        },
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "scale_filter": "disable",
-                        "visible": true
-                    },
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 0,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": false,
-                        "id": 2,
-                        "locked": true,
-                        "name": "Active Skype Speaker (not local)",
-                        "pos": {
-                            "x": -202.0,
-                            "y": 0.0
-                        },
-                        "private_settings": {},
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 0.10520832985639572,
-                            "y": 0.10477941483259201
-                        },
-                        "scale_filter": "disable",
-                        "visible": true
-                    },
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 0,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": false,
-                        "id": 5,
-                        "locked": false,
-                        "name": "Local Skype Speaker",
-                        "pos": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "private_settings": {},
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "scale_filter": "disable",
-                        "visible": true
-                    }
-                ]
-            },
-            "sync": 0,
-            "versioned_id": "scene",
-            "volume": 1.0
-        },
-        {
-            "balance": 0.5,
-            "deinterlace_field_order": 0,
-            "deinterlace_mode": 0,
-            "enabled": true,
-            "flags": 0,
-            "hotkeys": {
-                "VLCSource.PlayPause": [],
-                "VLCSource.PlaylistNext": [],
-                "VLCSource.PlaylistPrev": [],
-                "VLCSource.Restart": [],
-                "VLCSource.Stop": [],
-                "libobs.mute": [],
-                "libobs.push-to-mute": [],
-                "libobs.push-to-talk": [],
-                "libobs.unmute": []
-            },
-            "id": "vlc_source",
-            "mixers": 255,
-            "monitoring_type": 0,
-            "muted": true,
-            "name": "Meat Cam AV Feed",
-            "prev_ver": 419430404,
-            "private_settings": {
-                "mixer_hidden": false
-            },
-            "push-to-mute": false,
-            "push-to-mute-delay": 0,
-            "push-to-talk": false,
-            "push-to-talk-delay": 0,
-            "settings": {
-                "playback_behavior": "always_play",
-                "playlist": [
-                    {
-                        "hidden": false,
-                        "selected": false,
-                        "value": "rtsp://192.168.15.40:8080/video/h264"
-                    }
-                ]
-            },
-            "sync": 0,
-            "versioned_id": "vlc_source",
-            "volume": 0.92283284664154053
-        },
-        {
-            "balance": 0.5,
-            "deinterlace_field_order": 0,
-            "deinterlace_mode": 0,
-            "enabled": true,
-            "flags": 0,
-            "hotkeys": {},
-            "id": "text_gdiplus",
-            "mixers": 0,
-            "monitoring_type": 0,
-            "muted": false,
-            "name": "Meat Cam Caption",
-            "prev_ver": 419430404,
-            "private_settings": {},
-            "push-to-mute": false,
-            "push-to-mute-delay": 0,
-            "push-to-talk": false,
-            "push-to-talk-delay": 0,
-            "settings": {
-                "bk_opacity": 35,
-                "color": 4285866277,
-                "font": {
-                    "face": "Montserrat",
-                    "flags": 0,
-                    "size": 96,
-                    "style": "Regular"
-                },
-                "text": "Meat cam",
-                "transform": 1
-            },
-            "sync": 0,
-            "versioned_id": "text_gdiplus_v2",
-            "volume": 1.0
-        },
-        {
-            "balance": 0.5,
-            "deinterlace_field_order": 0,
-            "deinterlace_mode": 0,
-            "enabled": true,
-            "flags": 0,
-            "hotkeys": {
-                "OBSBasic.SelectScene": [],
-                "libobs.hide_scene_item.Active Skype Speaker (not local)": [],
-                "libobs.hide_scene_item.Background": [],
-                "libobs.hide_scene_item.Local Skype Speaker": [],
-                "libobs.hide_scene_item.Meat Cam": [],
-                "libobs.hide_scene_item.Screen Share": [],
-                "libobs.hide_scene_item.Speaker 1": [],
-                "libobs.hide_scene_item.Speaker 2": [],
-                "libobs.hide_scene_item.Speaker 3": [],
-                "libobs.show_scene_item.Active Skype Speaker (not local)": [],
-                "libobs.show_scene_item.Background": [],
-                "libobs.show_scene_item.Local Skype Speaker": [],
-                "libobs.show_scene_item.Meat Cam": [],
-                "libobs.show_scene_item.Screen Share": [],
-                "libobs.show_scene_item.Speaker 1": [],
-                "libobs.show_scene_item.Speaker 2": [],
-                "libobs.show_scene_item.Speaker 3": []
-            },
-            "id": "scene",
-            "mixers": 0,
-            "monitoring_type": 0,
-            "muted": false,
-            "name": "Screenshare with Heads (1 or 3) with Meat",
-            "prev_ver": 419430404,
-            "private_settings": {},
-            "push-to-mute": false,
-            "push-to-mute-delay": 0,
-            "push-to-talk": false,
-            "push-to-talk-delay": 0,
-            "settings": {
-                "custom_size": false,
-                "id_counter": 8,
-                "items": [
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 0,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": true,
-                        "id": 2,
-                        "locked": true,
-                        "name": "Base",
-                        "pos": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "private_settings": {},
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "scale_filter": "disable",
-                        "visible": true
-                    },
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 0,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": true,
-                        "id": 3,
-                        "locked": true,
-                        "name": "Detail",
-                        "pos": {
-                            "x": 970.0,
-                            "y": 0.0
-                        },
-                        "private_settings": {},
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "scale_filter": "disable",
-                        "visible": true
-                    },
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 0,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": false,
-                        "id": 1,
-                        "locked": false,
-                        "name": "Background",
-                        "pos": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "private_settings": {
-                            "collapsed": true
-                        },
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "scale_filter": "disable",
-                        "visible": true
-                    },
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 1577.0,
-                            "y": 881.0
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 2,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": true,
-                        "id": 14,
-                        "locked": true,
-                        "name": "Screen Share AV Feed",
-                        "pos": {
-                            "x": 174.0,
-                            "y": 39.0
-                        },
-                        "private_settings": {},
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 1.0,
-                            "y": 0.99264705181121826
-                        },
-                        "scale_filter": "disable",
-                        "visible": true
-                    },
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 0,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": true,
-                        "id": 13,
-                        "locked": true,
-                        "name": "Frame",
-                        "pos": {
-                            "x": 135.0,
-                            "y": 0.0
-                        },
-                        "private_settings": {},
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 1.5324074029922485,
-                            "y": 1.5322580337524414
-                        },
-                        "scale_filter": "disable",
-                        "visible": true
-                    },
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 0,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": false,
-                        "id": 2,
-                        "locked": false,
-                        "name": "Screen Share",
-                        "pos": {
-                            "x": 135.0,
-                            "y": 0.0
-                        },
-                        "private_settings": {
-                            "collapsed": true
-                        },
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "scale_filter": "disable",
-                        "visible": true
-                    },
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 1545.0,
-                            "y": 856.5
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 2,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": true,
-                        "id": 16,
-                        "locked": true,
-                        "name": "Speaker 3 AV Feed",
-                        "pos": {
-                            "x": 1145.8502197265625,
-                            "y": 881.550048828125
-                        },
-                        "private_settings": {},
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 0.22499999403953552,
-                            "y": 0.22499999403953552
-                        },
-                        "scale_filter": "disable",
-                        "visible": true
-                    },
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 0,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": true,
-                        "id": 15,
-                        "locked": true,
-                        "name": "Speaker 3 Label",
-                        "pos": {
-                            "x": 1150.5751953125,
-                            "y": 1042.08740234375
-                        },
-                        "private_settings": {},
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 0.22499999403953552,
-                            "y": 0.22499999403953552
-                        },
-                        "scale_filter": "disable",
-                        "visible": true
-                    },
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 0,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": true,
-                        "id": 3,
-                        "locked": true,
-                        "name": "Twitter Icon",
-                        "pos": {
-                            "x": 1150.3502197265625,
-                            "y": 1042.64990234375
-                        },
-                        "private_settings": {},
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 0.028731664642691612,
-                            "y": 0.028653444722294807
-                        },
-                        "scale_filter": "disable",
-                        "visible": true
-                    },
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 0,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": true,
-                        "id": 4,
-                        "locked": true,
-                        "name": "Frame",
-                        "pos": {
-                            "x": 1140.000244140625,
-                            "y": 877.27496337890625
-                        },
-                        "private_settings": {},
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 0.33333331346511841,
-                            "y": 0.32661294937133789
-                        },
-                        "scale_filter": "disable",
-                        "visible": true
-                    },
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 0,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": false,
-                        "id": 3,
-                        "locked": false,
-                        "name": "Speaker 3",
-                        "pos": {
-                            "x": 1140.000244140625,
-                            "y": 877.27496337890625
-                        },
-                        "private_settings": {
-                            "collapsed": true
-                        },
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 0.22499999403953552,
-                            "y": 0.22499999403953552
-                        },
-                        "scale_filter": "disable",
-                        "visible": true
-                    },
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 1544.0,
-                            "y": 857.0
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 2,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": true,
-                        "id": 13,
-                        "locked": true,
-                        "name": "Speaker 2 AV Feed",
-                        "pos": {
-                            "x": 425.40023803710938,
-                            "y": 882.449951171875
-                        },
-                        "private_settings": {},
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 0.22499999403953552,
-                            "y": 0.22499999403953552
-                        },
-                        "scale_filter": "disable",
-                        "visible": true
-                    },
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 0,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": true,
-                        "id": 12,
-                        "locked": true,
-                        "name": "Speaker 2 Label",
-                        "pos": {
-                            "x": 433.05023193359375,
-                            "y": 1042.199951171875
-                        },
-                        "private_settings": {},
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 0.22499999403953552,
-                            "y": 0.22499999403953552
-                        },
-                        "scale_filter": "disable",
-                        "visible": true
-                    },
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 0,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": true,
-                        "id": 3,
-                        "locked": true,
-                        "name": "Twitter Icon",
-                        "pos": {
-                            "x": 430.3502197265625,
-                            "y": 1042.8748779296875
-                        },
-                        "private_settings": {},
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 0.028731664642691612,
-                            "y": 0.028653444722294807
-                        },
-                        "scale_filter": "disable",
-                        "visible": true
-                    },
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 0,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": true,
-                        "id": 4,
-                        "locked": true,
-                        "name": "Frame",
-                        "pos": {
-                            "x": 420.000244140625,
-                            "y": 877.49993896484375
-                        },
-                        "private_settings": {},
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 0.33333331346511841,
-                            "y": 0.32661294937133789
-                        },
-                        "scale_filter": "disable",
-                        "visible": true
-                    },
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 0,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": false,
-                        "id": 4,
-                        "locked": false,
-                        "name": "Speaker 2",
-                        "pos": {
-                            "x": 420.000244140625,
-                            "y": 877.49993896484375
-                        },
-                        "private_settings": {
-                            "collapsed": true
-                        },
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 0.22499999403953552,
-                            "y": 0.22499999403953552
-                        },
-                        "scale_filter": "disable",
-                        "visible": true
-                    },
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 1531.0,
-                            "y": 851.0
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 2,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": true,
-                        "id": 9,
-                        "locked": true,
-                        "name": "Speaker 1 AV Feed",
-                        "pos": {
-                            "x": 787.2003173828125,
-                            "y": 883.7998046875
-                        },
-                        "private_settings": {},
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 0.22499999403953552,
-                            "y": 0.22499999403953552
-                        },
-                        "scale_filter": "disable",
-                        "visible": true
-                    },
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 0,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": true,
-                        "id": 7,
-                        "locked": true,
-                        "name": "Speaker 1 Label",
-                        "pos": {
-                            "x": 790.80023193359375,
-                            "y": 1042.199951171875
-                        },
-                        "private_settings": {},
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 0.22499999403953552,
-                            "y": 0.22499999403953552
-                        },
-                        "scale_filter": "disable",
-                        "visible": true
-                    },
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 0,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": true,
-                        "id": 6,
-                        "locked": true,
-                        "name": "Twitter Icon",
-                        "pos": {
-                            "x": 790.3502197265625,
-                            "y": 1042.8748779296875
-                        },
-                        "private_settings": {},
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 0.028731664642691612,
-                            "y": 0.028653444722294807
-                        },
-                        "scale_filter": "disable",
-                        "visible": true
-                    },
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 0,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": true,
-                        "id": 8,
-                        "locked": true,
-                        "name": "Frame",
-                        "pos": {
-                            "x": 780.00030517578125,
-                            "y": 877.49993896484375
-                        },
-                        "private_settings": {},
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 0.33333331346511841,
-                            "y": 0.32661294937133789
-                        },
-                        "scale_filter": "disable",
-                        "visible": true
-                    },
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 0,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": false,
-                        "id": 5,
-                        "locked": false,
-                        "name": "Speaker 1",
-                        "pos": {
-                            "x": 780.00030517578125,
-                            "y": 877.49993896484375
-                        },
-                        "private_settings": {
-                            "collapsed": false
-                        },
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 0.22499999403953552,
-                            "y": 0.22499999403953552
-                        },
-                        "scale_filter": "disable",
-                        "visible": true
-                    },
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 0,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": false,
-                        "id": 6,
-                        "locked": false,
-                        "name": "Active Skype Speaker (not local)",
-                        "pos": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "private_settings": {},
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "scale_filter": "disable",
-                        "visible": true
-                    },
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 0,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": false,
-                        "id": 7,
-                        "locked": false,
-                        "name": "Meat Cam",
-                        "pos": {
-                            "x": 1556.0,
-                            "y": 875.0
-                        },
-                        "private_settings": {},
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 0.18958333134651184,
-                            "y": 0.18981482088565826
-                        },
-                        "scale_filter": "disable",
-                        "visible": true
-                    },
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 0,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": false,
-                        "id": 8,
-                        "locked": false,
-                        "name": "Local Skype Speaker",
-                        "pos": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "private_settings": {},
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "scale_filter": "disable",
-                        "visible": true
-                    }
-                ]
-            },
-            "sync": 0,
-            "versioned_id": "scene",
-            "volume": 1.0
-        },
-        {
-            "balance": 0.5,
-            "deinterlace_field_order": 0,
-            "deinterlace_mode": 0,
-            "enabled": true,
-            "flags": 0,
-            "hotkeys": {
                 "libobs.mute": [],
                 "libobs.push-to-mute": [],
                 "libobs.push-to-talk": [],
@@ -7801,7 +6175,7 @@
             "monitoring_type": 0,
             "muted": false,
             "name": "Local Skype Speaker",
-            "prev_ver": 419430404,
+            "prev_ver": 419430408,
             "private_settings": {},
             "push-to-mute": false,
             "push-to-mute-delay": 0,
@@ -7811,7 +6185,7 @@
                 "ndi_bw_mode": 2,
                 "ndi_fix_alpha_blending": false,
                 "ndi_recv_hw_accel": true,
-                "ndi_source_name": "VALAR-MORGHULIS (Skype - (Local))"
+                "ndi_source_name": "THEDOTNETDOCS (Skype - (Local))"
             },
             "sync": 0,
             "versioned_id": "ndi_source",
