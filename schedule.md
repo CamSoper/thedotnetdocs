@@ -8,7 +8,6 @@
 | Jamar Warren | Docs Authoring Pack | | |
 | Cecil Phillips | | | |
 | Maxime | | | |
-| Ashley Willis | | | |
 | Olia | WinForms & WPF | | |
 | Maddy | | | |
 | Bri | | | |
@@ -19,3 +18,4 @@
 | Scott Addie | Key Vault, HTTP REPL | | |
 | Cam | Home Automation | | |
 | Jeremy Likness | .NET Data | |
+| Maira | .NET Community | |
