@@ -7,3 +7,4 @@
 - [ ] Graphic design, work on scenes and streamer profile
 - [ ] Always on time, 15 minutes early
   - [ ] Checklist of "go live"
+- [x] Maintain a guest/show list, see [our schedule](schedule.md) page
