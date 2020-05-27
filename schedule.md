@@ -1,14 +1,17 @@
 | Name | Idea | Email | Schedule |
 |------|------|-------|----------|
-| David Fowler | Project Tye | | |
-| David Berry | ASP.NET Core API | | |
-| Maria Naggaga | Try.NET | | |
-| Brady Gaster | SignalR | | |
-| John Alexander | Bonsai | | |
-| Jamar Warren | Docs Authoring Pack | | |
-| Cecil Phillips | | | |
-| Maxime | | | |
+| David Fowler | Project Tye | david.fowler@microsoft.com | |
+| David Berry | ASP.NET Core API | david.berry@microsoft.com | |
+| Maria Naggaga | Try.NET | maria.naggaga@microsoft.com | |
+| Brady Gaster | SignalR | bradyg@microsoft.com | |
+| John Alexander | Bonsai | John Alexander john.alexander@microsoft.com | |
+| John Papa | Azure Static Sites, Peacock VS Code Ext | John Papa john.papa@microsoft.com | |
+| Jamar Warren | Docs Authoring Pack | jamarw@microsoft.com | |
+| Cecil Phillip | | Cecil Phillip cecil.phillip@microsoft.com | |
+| Maxime Rouiller | What's New Generator | maxime.rouiller@microsoft.com | |
 | Olia | WinForms & WPF | | |
+| Oliver Scholz | Cognitive Speech | oliver.scholz@microsoft.com | |
+| Rob Chambers | Cognitive Speech SPX | rob.chambers@microsoft.com | |
 | Maddy | | | |
 | Bri | | | |
 | Maggie Johnson-Pint | Azure SDK | | |
