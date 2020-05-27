@@ -1,4 +1,4 @@
-| Name | Idea | Email | Schedule | Is 🔵 badge? |
+| Name | Idea | Contact | Schedule | Is 🔵 badge? |
 |--|--|--|--|--|
 | David Fowler | Project Tye | david.fowler@microsoft.com |  | ✔️ |
 | David Berry | ASP.NET Core API | david.berry@microsoft.com |  | ✔️ |
@@ -15,8 +15,11 @@
 | Maddy |  |  |  | ✔️ |
 | Bri |  |  |  | ✔️ |
 | Maggie Johnson-Pint | Azure SDK | magpint@microsoft.com  |  | ✔️ |
+| Layla | .NET & Azure | https://twitter.com/LaylaCodesIt  |  | ❌ |
+| David Neal | Being Awesome | https://twitter.com/reverentgeek  |  | ❌ |
+| Andrew Lock | ASP.NET Core | https://twitter.com/andrewlocknet  |  | ❌ |
 | Heather Downing | .NET w/ Alexa  |  |  | ❌ |
-| Corey Weathers | Blazor, Twilio |  |  | ❌ |
+| Corey Weathers | Blazor, Twilio | https://twitter.com/coreylweathers |  | ❌ |
 | Ben Adams | Optimize .NET |  |  | ❌ |
 | Nick Craver | External .NET |  |  | ❌ |
 | Steve Smith | External .NET |  |  | ❌ |
