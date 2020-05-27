@@ -18,12 +18,12 @@
 | Layla | .NET & Azure | https://twitter.com/LaylaCodesIt  |  | ❌ |
 | David Neal | Being Awesome | https://twitter.com/reverentgeek  |  | ❌ |
 | Andrew Lock | ASP.NET Core | https://twitter.com/andrewlocknet  |  | ❌ |
-| Heather Downing | .NET w/ Alexa  |  |  | ❌ |
+| Heather Downing | .NET w/ Alexa, Okta   | https://twitter.com/quorralyne |  | ❌ |
 | Corey Weathers | Blazor, Twilio | https://twitter.com/coreylweathers |  | ❌ |
-| Ben Adams | Optimize .NET |  |  | ❌ |
-| Nick Craver | External .NET |  |  | ❌ |
-| Steve Smith | External .NET |  |  | ❌ |
-| Ed Charbeneau | Blazor |  |  | ❌ |
+| Ben Adams | Optimize .NET | https://twitter.com/ben_a_adams  |  | ❌ |
+| Nick Craver | External .NET | https://twitter.com/nick_craver |  | ❌ |
+| Steve Smith | External .NET | https://twitter.com/ardalis |  | ❌ |
+| Ed Charbeneau | Blazor | https://twitter.com/EdCharbeneau |  | ❌ |
 | Shayne Boyer |  | shboyer@microsoft.com |  | ✔️ |
 | Scott Addie | Key Vault, HTTP REPL | scott.addie@microsoft.com  |  | ✔️ |
 | Cam Soper | Home Automation | cam.soper@microsoft.com  |  | ✔️ |
