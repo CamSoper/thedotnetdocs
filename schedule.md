@@ -12,6 +12,7 @@
 | Maddy | | | |
 | Bri | | | |
 | Maggie Johnson-Pint | Azure SDK | | |
+| Ben Adams | Optimize .NET | | |
 | Nick Craver | External .NET | | |
 | Steve Smith | External .NET | | |
 | Shayne Boyer | | | |
