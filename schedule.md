@@ -5,7 +5,7 @@
 | Maria Naggaga | Try.NET | maria.naggaga@microsoft.com |  | ✔️ |
 | Brady Gaster | SignalR | bradyg@microsoft.com |  | ✔️ |
 | John Alexander | Bonsai | john.alexander@microsoft.com |  | ✔️ |
-| John Papa | Azure Static Sites, Peacock VS Code Ext | john.papa@microsoft.com |  | ✔️ |
+| John Papa | Azure Static Sites, Peacock | john.papa@microsoft.com |  | ✔️ |
 | Jamar Warren | Docs Authoring Pack | jamarw@microsoft.com |  | ✔️ |
 | Cecil Phillip |  | cecil.phillip@microsoft.com |  | ✔️ |
 | Maxime Rouiller | What's New Generator | maxime.rouiller@microsoft.com |  | ✔️ |
