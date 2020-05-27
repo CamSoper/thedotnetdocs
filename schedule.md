@@ -15,6 +15,7 @@
 | Maddy |  |  |  | ✔️ |
 | Bri |  |  |  | ✔️ |
 | Maggie Johnson-Pint | Azure SDK | magpint@microsoft.com  |  | ✔️ |
+| Heather Downing | .NET w/ Alexa  |  |  | ❌ |
 | Corey Weathers | Blazor, Twilio |  |  | ❌ |
 | Ben Adams | Optimize .NET |  |  | ❌ |
 | Nick Craver | External .NET |  |  | ❌ |
