@@ -10,7 +10,7 @@
 | David Berry | ASP.NET Core API | david.berry@microsoft.com |  | ✔️ |
 | David Fowler | Project Tye | david.fowler@microsoft.com |  | ✔️ |
 | David Neal | Being Awesome | https://twitter.com/reverentgeek  |  | ❌ |
-| Ed Charbeneau | Blazor | https://twitter.com/EdCharbeneau | June 19<sup>th</sup>  | ❌ |
+| Ed Charbeneau | Blazor | https://twitter.com/EdCharbeneau | TBD  | ❌ |
 | Heather Downing | .NET w/ Alexa, Okta   | https://twitter.com/quorralyne |  | ❌ |
 | Jamar Warren | Docs Authoring Pack | jamarw@microsoft.com |  | ✔️ |
 | Jeremy Likness | .NET Data | jeremy.likness@microsoft.com  |  | ✔️ |
