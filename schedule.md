@@ -18,6 +18,7 @@
 | Ben Adams | Optimize .NET |  |  | ❌ |
 | Nick Craver | External .NET |  |  | ❌ |
 | Steve Smith | External .NET |  |  | ❌ |
+| Ed Charbeneau | Blazor |  |  | ❌ |
 | Shayne Boyer |  | shboyer@microsoft.com |  | ✔️ |
 | Scott Addie | Key Vault, HTTP REPL | scott.addie@microsoft.com  |  | ✔️ |
 | Cam Soper | Home Automation | cam.soper@microsoft.com  |  | ✔️ |
