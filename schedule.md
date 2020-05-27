@@ -6,11 +6,11 @@
 | Bri |  |  |  | ✔️ |
 | Cam Soper | Home Automation | cam.soper@microsoft.com  |  | ✔️ |
 | Cecil Phillip |  | cecil.phillip@microsoft.com |  | ✔️ |
-| Corey Weathers | Blazor, Twilio | https://twitter.com/coreylweathers |  | ❌ |
+| Corey Weathers | Blazor, Twilio | https://twitter.com/coreylweathers | June 18<sup>th</sup> | ❌ |
 | David Berry | ASP.NET Core API | david.berry@microsoft.com |  | ✔️ |
 | David Fowler | Project Tye | david.fowler@microsoft.com |  | ✔️ |
 | David Neal | Being Awesome | https://twitter.com/reverentgeek  |  | ❌ |
-| Ed Charbeneau | Blazor | https://twitter.com/EdCharbeneau | June 19th  | ❌ |
+| Ed Charbeneau | Blazor | https://twitter.com/EdCharbeneau | June 19<sup>th</sup>  | ❌ |
 | Heather Downing | .NET w/ Alexa, Okta   | https://twitter.com/quorralyne |  | ❌ |
 | Jamar Warren | Docs Authoring Pack | jamarw@microsoft.com |  | ✔️ |
 | Jeremy Likness | .NET Data | jeremy.likness@microsoft.com  |  | ✔️ |
@@ -28,4 +28,4 @@
 | Rob Chambers | Cognitive Speech SPX | rob.chambers@microsoft.com |  | ✔️ |
 | Scott Addie | Key Vault, HTTP REPL | scott.addie@microsoft.com  |  | ✔️ |
 | Shayne Boyer |  | shboyer@microsoft.com |  | ✔️ |
-| Steve Smith | External .NET | https://twitter.com/ardalis |  | ❌ |
+| Steve Smith | External .NET | https://twitter.com/ardalis | June 11<sup>th</sup> | ❌ |
