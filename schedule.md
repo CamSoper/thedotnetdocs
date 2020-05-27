@@ -10,11 +10,12 @@
 | Maxime | | | |
 | Ashley Willis | | | |
 | Olia | WinForms & WPF | | |
-| Maddy |  | | |
-| Bri |  | | |
+| Maddy | | | |
+| Bri | | | |
 | Maggie Johnson-Pint | Azure SDK | | |
 | Nick Craver | External .NET | | |
 | Steve Smith | External .NET | | |
 | Shayne Boyer | | | |
 | Scott Addie | Key Vault, HTTP REPL | | |
 | Cam | Home Automation | | |
+| Jeremy Likness | .NET Data | |
