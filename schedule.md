@@ -1,4 +1,4 @@
-| Name | Idea | Contact | Schedule | Is 🔵 badge? |
+| Name | Idea | Contact | Schedule | 🔵 badge |
 |--|--|--|--|--|
 | Andrew Lock | ASP.NET Core | https://twitter.com/andrewlocknet  |  | ❌ |
 | Ben Adams | Optimize .NET | https://twitter.com/ben_a_adams  |  | ❌ |
