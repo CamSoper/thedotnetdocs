@@ -3,7 +3,7 @@
 | Andrew Lock | ASP.NET Core | https://twitter.com/andrewlocknet  |  | ❌ |
 | Ben Adams | Optimize .NET | https://twitter.com/ben_a_adams  |  | ❌ |
 | Brady Gaster | SignalR | bradyg@microsoft.com |  | ✔️ |
-| Bri |  |  |  | ✔️ |
+| Bri Achtman |  |  |  | ✔️ |
 | Cam Soper | Home Automation | cam.soper@microsoft.com  |  | ✔️ |
 | Cecil Phillip |  | cecil.phillip@microsoft.com |  | ✔️ |
 | Corey Weathers | Blazor, Twilio | https://twitter.com/coreylweathers, corey@twilio.com, cweathers@twilio.com | June 18<sup>th</sup> | ❌ |
@@ -16,8 +16,8 @@
 | Jeremy Likness | .NET Data | jeremy.likness@microsoft.com  |  | ✔️ |
 | John Alexander | Bonsai | john.alexander@microsoft.com |  | ✔️ |
 | John Papa | Azure Static Sites, Peacock | john.papa@microsoft.com |  | ✔️ |
-| Layla | .NET & Azure | https://twitter.com/LaylaCodesIt  |  | ❌ |
-| Maddy |  |  |  | ✔️ |
+| Layla Porter | .NET & Azure | https://twitter.com/LaylaCodesIt  |  | ❌ |
+| Maddy Leger |  |  |  | ✔️ |
 | Maggie Johnson-Pint | Azure SDK | magpint@microsoft.com  |  | ✔️ |
 | Maira Wenzel | .NET Community | mairaw@microsoft.com  |  | ✔️ |
 | Maria Naggaga | Try.NET | maria.naggaga@microsoft.com |  | ✔️ |
