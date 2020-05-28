@@ -11,7 +11,7 @@
 | David Fowler | Project Tye | david.fowler@microsoft.com |  | ✔️ |
 | David Neal | Being Awesome | https://twitter.com/reverentgeek  |  | ❌ |
 | Ed Charbeneau | Blazor | https://twitter.com/EdCharbeneau | June 25<sup>th</sup>  | ❌ |
-| Heather Downing | .NET w/ Alexa, Okta   | https://twitter.com/quorralyne |  | ❌ |
+| Heather Downing | .NET w/ Alexa, Okta   | https://twitter.com/quorralyne, quorralyne@gmail.com | June 4<sup>th</sup> | ❌ |
 | Jamar Warren | Docs Authoring Pack | jamarw@microsoft.com |  | ✔️ |
 | Jeremy Likness | .NET Data | jeremy.likness@microsoft.com  |  | ✔️ |
 | John Alexander | Bonsai | john.alexander@microsoft.com |  | ✔️ |
