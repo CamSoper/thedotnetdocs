@@ -22,7 +22,7 @@
 | Maira Wenzel | .NET Community | mairaw@microsoft.com  |  | ✔️ |
 | Maria Naggaga | Try.NET | maria.naggaga@microsoft.com |  | ✔️ |
 | Maxime Rouiller | What's New Generator | maxime.rouiller@microsoft.com |  | ✔️ |
-| Nick Craver | External .NET | https://twitter.com/nick_craver |  | ❌ |
+| Nick Craver | External .NET | https://twitter.com/nick_craver, nrcraver@gmail.com, craver@stackoverflow.com | June 11<sup>th</sup> | ❌ |
 | Olia Gavrysh | WinForms & WPF | olia.gavrysh@microsoft.com |  | ✔️ |
 | Oliver Scholz | Cognitive Speech | oliver.scholz@microsoft.com |  | ✔️ |
 | Rob Chambers | Cognitive Speech SPX | rob.chambers@microsoft.com |  | ✔️ |
