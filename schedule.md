@@ -6,7 +6,7 @@
 | Bri |  |  |  | ✔️ |
 | Cam Soper | Home Automation | cam.soper@microsoft.com  |  | ✔️ |
 | Cecil Phillip |  | cecil.phillip@microsoft.com |  | ✔️ |
-| Corey Weathers | Blazor, Twilio | https://twitter.com/coreylweathers | June 18<sup>th</sup> | ❌ |
+| Corey Weathers | Blazor, Twilio | https://twitter.com/coreylweathers, corey@twilio.com, cweathers@twilio.com | June 18<sup>th</sup> | ❌ |
 | David Berry | ASP.NET Core API | david.berry@microsoft.com |  | ✔️ |
 | David Fowler | Project Tye | david.fowler@microsoft.com |  | ✔️ |
 | David Neal | Being Awesome | https://twitter.com/reverentgeek  |  | ❌ |
