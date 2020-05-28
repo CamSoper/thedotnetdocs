@@ -28,4 +28,4 @@
 | Rob Chambers | Cognitive Speech SPX | rob.chambers@microsoft.com |  | ✔️ |
 | Scott Addie | Key Vault, HTTP REPL | scott.addie@microsoft.com  |  | ✔️ |
 | Shayne Boyer |  | shboyer@microsoft.com |  | ✔️ |
-| Steve Smith | External .NET | https://twitter.com/ardalis | May 28<sup>th</sup> | ❌ |
+| Steve Smith | eShopOnWeb architecture & eBook | https://twitter.com/ardalis | May 28<sup>th</sup> | ❌ |
