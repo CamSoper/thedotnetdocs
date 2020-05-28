@@ -20,7 +20,7 @@
 | Maddy Leger |  |  |  | ✔️ |
 | Maggie Johnson-Pint | Azure SDK | magpint@microsoft.com  |  | ✔️ |
 | Maira Wenzel | .NET Community | mairaw@microsoft.com  |  | ✔️ |
-| Maria Naggaga & Bill Wagner | NET Try / Jupyter notebooks | maria.naggaga@microsoft.com, wiwagn@microsoft.com |  | ✔️ |
+| Maria Naggaga & Bill Wagner | .NET Try / Jupyter notebooks | maria.naggaga@microsoft.com, wiwagn@microsoft.com |  | ✔️ |
 | Maxime Rouiller | What's New Generator | maxime.rouiller@microsoft.com |  | ✔️ |
 | Nick Craver | External .NET | https://twitter.com/nick_craver, nrcraver@gmail.com, craver@stackoverflow.com | June 11<sup>th</sup> | ❌ |
 | Olia Gavrysh | WinForms & WPF | olia.gavrysh@microsoft.com |  | ✔️ |
