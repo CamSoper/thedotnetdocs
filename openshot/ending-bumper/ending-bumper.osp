@@ -31,7 +31,7 @@
      },
      {
       "co": {
-       "X": 4340.0,
+       "X": 4271.0,
        "Y": 1.0
       },
       "handle_left": {
@@ -47,7 +47,7 @@
      },
      {
       "co": {
-       "X": 4370.0,
+       "X": 4361.0,
        "Y": 0.0
       },
       "handle_left": {
@@ -133,7 +133,7 @@
    "display": 0,
    "duration": 3600.0,
    "effects": [],
-   "end": 145.63333333333333,
+   "end": 145.33333333333334,
    "gravity": 4,
    "has_audio": {
     "Points": [
@@ -157,7 +157,7 @@
      }
     ]
    },
-   "id": "2BQL6SAW3C",
+   "id": "B5QT0KCO6D",
    "layer": 5000000,
    "location_x": {
     "Points": [
@@ -478,9 +478,9 @@
     }
    },
    "waveform": false,
-   "file_id": "KO2MUGU3F6",
+   "file_id": "YLRODNQ5K4",
    "title": "Slide2.PNG",
-   "image": "thumbnail/KO2MUGU3F6.png"
+   "image": "thumbnail/YLRODNQ5K4.png"
   },
   {
    "alpha": {
@@ -562,9 +562,9 @@
     ]
    },
    "display": 0,
-   "duration": 145.41600036621094,
+   "duration": 322.32489013671875,
    "effects": [],
-   "end": 145.41600036621094,
+   "end": 145.63333333333333,
    "gravity": 4,
    "has_audio": {
     "Points": [
@@ -588,7 +588,7 @@
      }
     ]
    },
-   "id": "MNPTLPHN37",
+   "id": "RWO0BZBJZ9",
    "layer": 4000000,
    "location_x": {
     "Points": [
@@ -704,7 +704,7 @@
    "position": 0,
    "reader": {
     "acodec": "mp3float",
-    "audio_bit_rate": 180620,
+    "audio_bit_rate": 193676,
     "audio_stream_index": 0,
     "audio_timebase": {
      "den": 14112000,
@@ -716,8 +716,8 @@
      "den": 1,
      "num": 1
     },
-    "duration": 145.41600036621094,
-    "file_size": "3283300",
+    "duration": 322.32489013671875,
+    "file_size": "7803425",
     "fps": {
      "den": 1,
      "num": 24
@@ -729,23 +729,22 @@
     "interlaced_frame": false,
     "metadata": {
      "artist": "Cam Soper",
-     "comment": "Flugelhorn remix, no intro",
-     "date": "2018",
+     "date": "2020",
      "encoder": "LAME3.100",
-     "title": "Autumn Leaves Outro"
+     "title": "All The Things You Are"
     },
-    "path": "../../media/audio/autumn-leaves-flugelhorn-no-intro.mp3",
+    "path": "../../media/audio/all-the-things-you-are-soloist.mp3",
     "pixel_format": -1,
     "pixel_ratio": {
      "den": 1,
      "num": 1
     },
-    "sample_rate": 48000,
+    "sample_rate": 44100,
     "top_field_first": true,
     "type": "FFmpegReader",
     "vcodec": "",
     "video_bit_rate": 0,
-    "video_length": "3489",
+    "video_length": "7735",
     "video_stream_index": -1,
     "video_timebase": {
      "den": 24,
@@ -832,8 +831,24 @@
      },
      {
       "co": {
-       "X": 1.0,
-       "Y": 0.5
+       "X": 4280.0,
+       "Y": 1.0
+      },
+      "handle_left": {
+       "X": 0.5,
+       "Y": 1.0
+      },
+      "handle_right": {
+       "X": 0.5,
+       "Y": 0.0
+      },
+      "handle_type": 0,
+      "interpolation": 0
+     },
+     {
+      "co": {
+       "X": 4370.0,
+       "Y": 0.0
       },
       "handle_left": {
        "X": 0.5,
@@ -931,14 +946,14 @@
     }
    },
    "waveform": false,
-   "file_id": "5PEHOM9U8S",
-   "title": "autumn-leaves-flugelhorn-no-intro.mp3",
-   "image": "thumbnail/5PEHOM9U8S.png"
+   "file_id": "VW82UC98PI",
+   "title": "all-the-things-you-are-soloist.mp3",
+   "image": "thumbnail/VW82UC98PI.png"
   }
  ],
  "effects": [],
  "export_path": "C:/Src/thedotnetdocs/media/video/renders",
- "import_path": "",
+ "import_path": "C:/Src/thedotnetdocs/media/audio",
  "files": [
   {
    "acodec": "",
@@ -985,12 +1000,12 @@
    },
    "width": 1280,
    "media_type": "image",
-   "id": "KO2MUGU3F6",
-   "image": "thumbnail/KO2MUGU3F6.png"
+   "id": "YLRODNQ5K4",
+   "image": "thumbnail/YLRODNQ5K4.png"
   },
   {
    "acodec": "mp3float",
-   "audio_bit_rate": 180620,
+   "audio_bit_rate": 193676,
    "audio_stream_index": 0,
    "audio_timebase": {
     "den": 14112000,
@@ -1002,8 +1017,8 @@
     "den": 1,
     "num": 1
    },
-   "duration": 145.41600036621094,
-   "file_size": "3283300",
+   "duration": 322.32489013671875,
+   "file_size": "7803425",
    "fps": {
     "den": 1,
     "num": 24
@@ -1015,23 +1030,22 @@
    "interlaced_frame": false,
    "metadata": {
     "artist": "Cam Soper",
-    "comment": "Flugelhorn remix, no intro",
-    "date": "2018",
+    "date": "2020",
     "encoder": "LAME3.100",
-    "title": "Autumn Leaves Outro"
+    "title": "All The Things You Are"
    },
-   "path": "../../media/audio/autumn-leaves-flugelhorn-no-intro.mp3",
+   "path": "../../media/audio/all-the-things-you-are-soloist.mp3",
    "pixel_format": -1,
    "pixel_ratio": {
     "den": 1,
     "num": 1
    },
-   "sample_rate": 48000,
+   "sample_rate": 44100,
    "top_field_first": true,
    "type": "FFmpegReader",
    "vcodec": "",
    "video_bit_rate": 0,
-   "video_length": "3489",
+   "video_length": "7735",
    "video_stream_index": -1,
    "video_timebase": {
     "den": 24,
@@ -1039,8 +1053,8 @@
    },
    "width": 720,
    "media_type": "audio",
-   "id": "5PEHOM9U8S",
-   "image": "thumbnail/5PEHOM9U8S.png"
+   "id": "VW82UC98PI",
+   "image": "thumbnail/VW82UC98PI.png"
   }
  ],
  "duration": 370.4080047607422,
@@ -1090,462 +1104,75 @@
  "history": {
   "undo": [
    {
-    "type": "update",
+    "type": "delete",
     "key": [
-     "clips",
+     "files",
      {
-      "id": "2BQL6SAW3C"
+      "id": "KO2MUGU3F6"
      }
     ],
-    "value": {
-     "id": "2BQL6SAW3C",
-     "layer": 5000000,
-     "position": 0,
-     "start": 0,
-     "end": 145.63333333333333
-    },
+    "value": null,
     "partial": false,
     "old_values": {
-     "alpha": {
-      "Points": [
-       {
-        "co": {
-         "X": 1.0,
-         "Y": 1.0
-        },
-        "interpolation": 2
-       }
-      ]
+     "acodec": "",
+     "audio_bit_rate": 0,
+     "audio_stream_index": -1,
+     "audio_timebase": {
+      "den": 1,
+      "num": 1
      },
-     "anchor": 0,
-     "channel_filter": {
-      "Points": [
-       {
-        "co": {
-         "X": 1.0,
-         "Y": -1.0
-        },
-        "interpolation": 2
-       }
-      ]
+     "channel_layout": 4,
+     "channels": 0,
+     "display_ratio": {
+      "den": 9,
+      "num": 16
      },
-     "channel_mapping": {
-      "Points": [
-       {
-        "co": {
-         "X": 1.0,
-         "Y": -1.0
-        },
-        "interpolation": 2
-       }
-      ]
-     },
-     "crop_height": {
-      "Points": [
-       {
-        "co": {
-         "X": 1.0,
-         "Y": 1.0
-        },
-        "interpolation": 2
-       }
-      ]
-     },
-     "crop_width": {
-      "Points": [
-       {
-        "co": {
-         "X": 1.0,
-         "Y": 1.0
-        },
-        "interpolation": 2
-       }
-      ]
-     },
-     "crop_x": {
-      "Points": [
-       {
-        "co": {
-         "X": 1.0,
-         "Y": 0.0
-        },
-        "interpolation": 2
-       }
-      ]
-     },
-     "crop_y": {
-      "Points": [
-       {
-        "co": {
-         "X": 1.0,
-         "Y": 0.0
-        },
-        "interpolation": 2
-       }
-      ]
-     },
-     "display": 0,
      "duration": 3600.0,
-     "effects": [],
-     "end": 145.76666666666668,
-     "gravity": 4,
-     "has_audio": {
-      "Points": [
-       {
-        "co": {
-         "X": 1.0,
-         "Y": -1.0
-        },
-        "interpolation": 2
-       }
-      ]
+     "file_size": "3686400",
+     "fps": {
+      "den": 1,
+      "num": 30
      },
-     "has_video": {
-      "Points": [
-       {
-        "co": {
-         "X": 1.0,
-         "Y": -1.0
-        },
-        "interpolation": 2
-       }
-      ]
+     "has_audio": false,
+     "has_single_image": true,
+     "has_video": true,
+     "height": 720,
+     "interlaced_frame": false,
+     "metadata": {},
+     "path": "../../media/bumpers/Bumpers/Slide2.PNG",
+     "pixel_format": -1,
+     "pixel_ratio": {
+      "den": 1,
+      "num": 1
      },
-     "id": "2BQL6SAW3C",
-     "layer": 5000000,
-     "location_x": {
-      "Points": [
-       {
-        "co": {
-         "X": 1.0,
-         "Y": 0.0
-        },
-        "interpolation": 2
-       }
-      ]
+     "sample_rate": 0,
+     "top_field_first": true,
+     "type": "QtImageReader",
+     "vcodec": "",
+     "video_bit_rate": 0,
+     "video_length": "108000",
+     "video_stream_index": -1,
+     "video_timebase": {
+      "den": 30,
+      "num": 1
      },
-     "location_y": {
-      "Points": [
-       {
-        "co": {
-         "X": 1.0,
-         "Y": 0.0
-        },
-        "interpolation": 2
-       }
-      ]
-     },
-     "mixing": 0,
-     "perspective_c1_x": {
-      "Points": [
-       {
-        "co": {
-         "X": 1.0,
-         "Y": -1.0
-        },
-        "interpolation": 2
-       }
-      ]
-     },
-     "perspective_c1_y": {
-      "Points": [
-       {
-        "co": {
-         "X": 1.0,
-         "Y": -1.0
-        },
-        "interpolation": 2
-       }
-      ]
-     },
-     "perspective_c2_x": {
-      "Points": [
-       {
-        "co": {
-         "X": 1.0,
-         "Y": -1.0
-        },
-        "interpolation": 2
-       }
-      ]
-     },
-     "perspective_c2_y": {
-      "Points": [
-       {
-        "co": {
-         "X": 1.0,
-         "Y": -1.0
-        },
-        "interpolation": 2
-       }
-      ]
-     },
-     "perspective_c3_x": {
-      "Points": [
-       {
-        "co": {
-         "X": 1.0,
-         "Y": -1.0
-        },
-        "interpolation": 2
-       }
-      ]
-     },
-     "perspective_c3_y": {
-      "Points": [
-       {
-        "co": {
-         "X": 1.0,
-         "Y": -1.0
-        },
-        "interpolation": 2
-       }
-      ]
-     },
-     "perspective_c4_x": {
-      "Points": [
-       {
-        "co": {
-         "X": 1.0,
-         "Y": -1.0
-        },
-        "interpolation": 2
-       }
-      ]
-     },
-     "perspective_c4_y": {
-      "Points": [
-       {
-        "co": {
-         "X": 1.0,
-         "Y": -1.0
-        },
-        "interpolation": 2
-       }
-      ]
-     },
-     "position": 0,
-     "reader": {
-      "acodec": "",
-      "audio_bit_rate": 0,
-      "audio_stream_index": -1,
-      "audio_timebase": {
-       "den": 1,
-       "num": 1
-      },
-      "channel_layout": 4,
-      "channels": 0,
-      "display_ratio": {
-       "den": 9,
-       "num": 16
-      },
-      "duration": 3600.0,
-      "file_size": "3686400",
-      "fps": {
-       "den": 1,
-       "num": 30
-      },
-      "has_audio": false,
-      "has_single_image": true,
-      "has_video": true,
-      "height": 720,
-      "interlaced_frame": false,
-      "metadata": {},
-      "path": "../../media/bumpers/Bumpers/Slide2.PNG",
-      "pixel_format": -1,
-      "pixel_ratio": {
-       "den": 1,
-       "num": 1
-      },
-      "sample_rate": 0,
-      "top_field_first": true,
-      "type": "QtImageReader",
-      "vcodec": "",
-      "video_bit_rate": 0,
-      "video_length": "108000",
-      "video_stream_index": -1,
-      "video_timebase": {
-       "den": 30,
-       "num": 1
-      },
-      "width": 1280
-     },
-     "rotation": {
-      "Points": [
-       {
-        "co": {
-         "X": 1.0,
-         "Y": 0.0
-        },
-        "interpolation": 2
-       }
-      ]
-     },
-     "scale": 1,
-     "scale_x": {
-      "Points": [
-       {
-        "co": {
-         "X": 1.0,
-         "Y": 1.0
-        },
-        "interpolation": 2
-       }
-      ]
-     },
-     "scale_y": {
-      "Points": [
-       {
-        "co": {
-         "X": 1.0,
-         "Y": 1.0
-        },
-        "interpolation": 2
-       }
-      ]
-     },
-     "shear_x": {
-      "Points": [
-       {
-        "co": {
-         "X": 1.0,
-         "Y": 0.0
-        },
-        "interpolation": 2
-       }
-      ]
-     },
-     "shear_y": {
-      "Points": [
-       {
-        "co": {
-         "X": 1.0,
-         "Y": 0.0
-        },
-        "interpolation": 2
-       }
-      ]
-     },
-     "start": 0,
-     "time": {
-      "Points": [
-       {
-        "co": {
-         "X": 1.0,
-         "Y": 1.0
-        },
-        "interpolation": 2
-       }
-      ]
-     },
-     "volume": {
-      "Points": [
-       {
-        "co": {
-         "X": 1.0,
-         "Y": 1.0
-        },
-        "interpolation": 2
-       }
-      ]
-     },
-     "wave_color": {
-      "alpha": {
-       "Points": [
-        {
-         "co": {
-          "X": 1.0,
-          "Y": 255.0
-         },
-         "handle_left": {
-          "X": 0.5,
-          "Y": 1.0
-         },
-         "handle_right": {
-          "X": 0.5,
-          "Y": 0.0
-         },
-         "handle_type": 0,
-         "interpolation": 0
-        }
-       ]
-      },
-      "blue": {
-       "Points": [
-        {
-         "co": {
-          "X": 1.0,
-          "Y": 255.0
-         },
-         "handle_left": {
-          "X": 0.5,
-          "Y": 1.0
-         },
-         "handle_right": {
-          "X": 0.5,
-          "Y": 0.0
-         },
-         "handle_type": 0,
-         "interpolation": 0
-        }
-       ]
-      },
-      "green": {
-       "Points": [
-        {
-         "co": {
-          "X": 1.0,
-          "Y": 123.0
-         },
-         "handle_left": {
-          "X": 0.5,
-          "Y": 1.0
-         },
-         "handle_right": {
-          "X": 0.5,
-          "Y": 0.0
-         },
-         "handle_type": 0,
-         "interpolation": 0
-        }
-       ]
-      },
-      "red": {
-       "Points": [
-        {
-         "co": {
-          "X": 1.0,
-          "Y": 0.0
-         },
-         "handle_left": {
-          "X": 0.5,
-          "Y": 1.0
-         },
-         "handle_right": {
-          "X": 0.5,
-          "Y": 0.0
-         },
-         "handle_type": 0,
-         "interpolation": 0
-        }
-       ]
-      }
-     },
-     "waveform": false,
-     "file_id": "KO2MUGU3F6",
-     "title": "Slide2.PNG",
+     "width": 1280,
+     "media_type": "image",
+     "id": "KO2MUGU3F6",
      "image": "thumbnail/KO2MUGU3F6.png"
     }
    },
    {
-    "type": "update",
+    "type": "delete",
     "key": [
      "clips",
      {
       "id": "2BQL6SAW3C"
      }
     ],
-    "value": {
+    "value": null,
+    "partial": false,
+    "old_values": {
      "alpha": {
       "Points": [
        {
@@ -1797,6 +1424,51 @@
       ]
      },
      "position": 0,
+     "reader": {
+      "acodec": "",
+      "audio_bit_rate": 0,
+      "audio_stream_index": -1,
+      "audio_timebase": {
+       "den": 1,
+       "num": 1
+      },
+      "channel_layout": 4,
+      "channels": 0,
+      "display_ratio": {
+       "den": 9,
+       "num": 16
+      },
+      "duration": 3600.0,
+      "file_size": "3686400",
+      "fps": {
+       "den": 1,
+       "num": 30
+      },
+      "has_audio": false,
+      "has_single_image": true,
+      "has_video": true,
+      "height": 720,
+      "interlaced_frame": false,
+      "metadata": {},
+      "path": "../../media/bumpers/Bumpers/Slide2.PNG",
+      "pixel_format": -1,
+      "pixel_ratio": {
+       "den": 1,
+       "num": 1
+      },
+      "sample_rate": 0,
+      "top_field_first": true,
+      "type": "QtImageReader",
+      "vcodec": "",
+      "video_bit_rate": 0,
+      "video_length": "108000",
+      "video_stream_index": -1,
+      "video_timebase": {
+       "den": 30,
+       "num": 1
+      },
+      "width": 1280
+     },
      "rotation": {
       "Points": [
        {
@@ -1962,9 +1634,125 @@
      "file_id": "KO2MUGU3F6",
      "title": "Slide2.PNG",
      "image": "thumbnail/KO2MUGU3F6.png"
+    }
+   },
+   {
+    "type": "insert",
+    "key": [
+     "files"
+    ],
+    "value": {
+     "acodec": "",
+     "audio_bit_rate": 0,
+     "audio_stream_index": -1,
+     "audio_timebase": {
+      "den": 1,
+      "num": 1
+     },
+     "channel_layout": 4,
+     "channels": 0,
+     "display_ratio": {
+      "den": 9,
+      "num": 16
+     },
+     "duration": 3600.0,
+     "file_size": "3686400",
+     "fps": {
+      "den": 1,
+      "num": 30
+     },
+     "has_audio": false,
+     "has_single_image": true,
+     "has_video": true,
+     "height": 720,
+     "interlaced_frame": false,
+     "metadata": {},
+     "path": "../../media/bumpers/Bumpers/Slide2.PNG",
+     "pixel_format": -1,
+     "pixel_ratio": {
+      "den": 1,
+      "num": 1
+     },
+     "sample_rate": 0,
+     "top_field_first": true,
+     "type": "QtImageReader",
+     "vcodec": "",
+     "video_bit_rate": 0,
+     "video_length": "108000",
+     "video_stream_index": -1,
+     "video_timebase": {
+      "den": 30,
+      "num": 1
+     },
+     "width": 1280,
+     "media_type": "image",
+     "id": "YLRODNQ5K4",
+     "image": "thumbnail/YLRODNQ5K4.png"
     },
     "partial": false,
-    "old_values": {
+    "old_values": [
+     {
+      "acodec": "mp3float",
+      "audio_bit_rate": 180620,
+      "audio_stream_index": 0,
+      "audio_timebase": {
+       "den": 14112000,
+       "num": 1
+      },
+      "channel_layout": 3,
+      "channels": 2,
+      "display_ratio": {
+       "den": 1,
+       "num": 1
+      },
+      "duration": 145.41600036621094,
+      "file_size": "3283300",
+      "fps": {
+       "den": 1,
+       "num": 24
+      },
+      "has_audio": true,
+      "has_single_image": false,
+      "has_video": false,
+      "height": 480,
+      "interlaced_frame": false,
+      "metadata": {
+       "artist": "Cam Soper",
+       "comment": "Flugelhorn remix, no intro",
+       "date": "2018",
+       "encoder": "LAME3.100",
+       "title": "Autumn Leaves Outro"
+      },
+      "path": "../../media/audio/autumn-leaves-flugelhorn-no-intro.mp3",
+      "pixel_format": -1,
+      "pixel_ratio": {
+       "den": 1,
+       "num": 1
+      },
+      "sample_rate": 48000,
+      "top_field_first": true,
+      "type": "FFmpegReader",
+      "vcodec": "",
+      "video_bit_rate": 0,
+      "video_length": "3489",
+      "video_stream_index": -1,
+      "video_timebase": {
+       "den": 24,
+       "num": 1
+      },
+      "width": 720,
+      "media_type": "audio",
+      "id": "5PEHOM9U8S",
+      "image": "thumbnail/5PEHOM9U8S.png"
+     }
+    ]
+   },
+   {
+    "type": "insert",
+    "key": [
+     "clips"
+    ],
+    "value": {
      "alpha": {
       "Points": [
        {
@@ -1973,6 +1761,38 @@
          "Y": 1.0
         },
         "interpolation": 2
+       },
+       {
+        "co": {
+         "X": 4271.0,
+         "Y": 1.0
+        },
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1.0
+        },
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0.0
+        },
+        "handle_type": 0,
+        "interpolation": 0
+       },
+       {
+        "co": {
+         "X": 4361.0,
+         "Y": 0.0
+        },
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1.0
+        },
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0.0
+        },
+        "handle_type": 0,
+        "interpolation": 0
        }
       ]
      },
@@ -2046,7 +1866,7 @@
      "display": 0,
      "duration": 3600.0,
      "effects": [],
-     "end": 145.63333333333333,
+     "end": 145.33333333333334,
      "gravity": 4,
      "has_audio": {
       "Points": [
@@ -2070,7 +1890,7 @@
        }
       ]
      },
-     "id": "2BQL6SAW3C",
+     "id": "B5QT0KCO6D",
      "layer": 5000000,
      "location_x": {
       "Points": [
@@ -2391,164 +2211,484 @@
       }
      },
      "waveform": false,
-     "file_id": "KO2MUGU3F6",
+     "file_id": "YLRODNQ5K4",
      "title": "Slide2.PNG",
-     "image": "thumbnail/KO2MUGU3F6.png"
-    }
-   },
-   {
-    "type": "update",
-    "key": [
-     "profile"
-    ],
-    "value": "HD 1080p 30 fps",
-    "partial": false,
-    "old_values": "HD 720p 30 fps"
-   },
-   {
-    "type": "update",
-    "key": [
-     "width"
-    ],
-    "value": 1920,
-    "partial": false,
-    "old_values": 1280
-   },
-   {
-    "type": "update",
-    "key": [
-     "height"
-    ],
-    "value": 1080,
-    "partial": false,
-    "old_values": 720
-   },
-   {
-    "type": "update",
-    "key": [
-     "fps"
-    ],
-    "value": {
-     "num": 30,
-     "den": 1
+     "image": "thumbnail/YLRODNQ5K4.png"
     },
     "partial": false,
-    "old_values": {
-     "num": 30,
-     "den": 1
-    }
-   },
-   {
-    "type": "update",
-    "key": [
-     "display_ratio"
-    ],
-    "value": {
-     "num": 16,
-     "den": 9
-    },
-    "partial": false,
-    "old_values": {
-     "num": 16,
-     "den": 9
-    }
-   },
-   {
-    "type": "update",
-    "key": [
-     "pixel_ratio"
-    ],
-    "value": {
-     "num": 1,
-     "den": 1
-    },
-    "partial": false,
-    "old_values": {
-     "num": 1,
-     "den": 1
-    }
-   },
-   {
-    "type": "update",
-    "key": [
-     "profile"
-    ],
-    "value": "HD 720p 30 fps",
-    "partial": false,
-    "old_values": "HD 1080p 30 fps"
-   },
-   {
-    "type": "update",
-    "key": [
-     "width"
-    ],
-    "value": 1280,
-    "partial": false,
-    "old_values": 1920
-   },
-   {
-    "type": "update",
-    "key": [
-     "height"
-    ],
-    "value": 720,
-    "partial": false,
-    "old_values": 1080
-   },
-   {
-    "type": "update",
-    "key": [
-     "fps"
-    ],
-    "value": {
-     "num": 30,
-     "den": 1
-    },
-    "partial": false,
-    "old_values": {
-     "num": 30,
-     "den": 1
-    }
-   },
-   {
-    "type": "update",
-    "key": [
-     "display_ratio"
-    ],
-    "value": {
-     "num": 16,
-     "den": 9
-    },
-    "partial": false,
-    "old_values": {
-     "num": 16,
-     "den": 9
-    }
-   },
-   {
-    "type": "update",
-    "key": [
-     "pixel_ratio"
-    ],
-    "value": {
-     "num": 1,
-     "den": 1
-    },
-    "partial": false,
-    "old_values": {
-     "num": 1,
-     "den": 1
-    }
+    "old_values": [
+     {
+      "alpha": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "anchor": 0,
+      "channel_filter": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": -1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "channel_mapping": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": -1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "crop_height": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "crop_width": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "crop_x": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 0.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "crop_y": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 0.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "display": 0,
+      "duration": 145.41600036621094,
+      "effects": [],
+      "end": 145.41600036621094,
+      "gravity": 4,
+      "has_audio": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": -1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "has_video": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": -1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "id": "MNPTLPHN37",
+      "layer": 4000000,
+      "location_x": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 0.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "location_y": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 0.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "mixing": 0,
+      "perspective_c1_x": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": -1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "perspective_c1_y": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": -1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "perspective_c2_x": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": -1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "perspective_c2_y": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": -1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "perspective_c3_x": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": -1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "perspective_c3_y": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": -1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "perspective_c4_x": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": -1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "perspective_c4_y": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": -1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "position": 0,
+      "reader": {
+       "acodec": "mp3float",
+       "audio_bit_rate": 180620,
+       "audio_stream_index": 0,
+       "audio_timebase": {
+        "den": 14112000,
+        "num": 1
+       },
+       "channel_layout": 3,
+       "channels": 2,
+       "display_ratio": {
+        "den": 1,
+        "num": 1
+       },
+       "duration": 145.41600036621094,
+       "file_size": "3283300",
+       "fps": {
+        "den": 1,
+        "num": 24
+       },
+       "has_audio": true,
+       "has_single_image": false,
+       "has_video": false,
+       "height": 480,
+       "interlaced_frame": false,
+       "metadata": {
+        "artist": "Cam Soper",
+        "comment": "Flugelhorn remix, no intro",
+        "date": "2018",
+        "encoder": "LAME3.100",
+        "title": "Autumn Leaves Outro"
+       },
+       "path": "../../media/audio/autumn-leaves-flugelhorn-no-intro.mp3",
+       "pixel_format": -1,
+       "pixel_ratio": {
+        "den": 1,
+        "num": 1
+       },
+       "sample_rate": 48000,
+       "top_field_first": true,
+       "type": "FFmpegReader",
+       "vcodec": "",
+       "video_bit_rate": 0,
+       "video_length": "3489",
+       "video_stream_index": -1,
+       "video_timebase": {
+        "den": 24,
+        "num": 1
+       },
+       "width": 720
+      },
+      "rotation": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 0.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "scale": 1,
+      "scale_x": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "scale_y": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "shear_x": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 0.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "shear_y": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 0.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "start": 0,
+      "time": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "volume": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 1.0
+         },
+         "interpolation": 2
+        },
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 0.5
+         },
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         },
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "interpolation": 0
+        }
+       ]
+      },
+      "wave_color": {
+       "alpha": {
+        "Points": [
+         {
+          "co": {
+           "X": 1.0,
+           "Y": 255.0
+          },
+          "handle_left": {
+           "X": 0.5,
+           "Y": 1.0
+          },
+          "handle_right": {
+           "X": 0.5,
+           "Y": 0.0
+          },
+          "handle_type": 0,
+          "interpolation": 0
+         }
+        ]
+       },
+       "blue": {
+        "Points": [
+         {
+          "co": {
+           "X": 1.0,
+           "Y": 255.0
+          },
+          "handle_left": {
+           "X": 0.5,
+           "Y": 1.0
+          },
+          "handle_right": {
+           "X": 0.5,
+           "Y": 0.0
+          },
+          "handle_type": 0,
+          "interpolation": 0
+         }
+        ]
+       },
+       "green": {
+        "Points": [
+         {
+          "co": {
+           "X": 1.0,
+           "Y": 123.0
+          },
+          "handle_left": {
+           "X": 0.5,
+           "Y": 1.0
+          },
+          "handle_right": {
+           "X": 0.5,
+           "Y": 0.0
+          },
+          "handle_type": 0,
+          "interpolation": 0
+         }
+        ]
+       },
+       "red": {
+        "Points": [
+         {
+          "co": {
+           "X": 1.0,
+           "Y": 0.0
+          },
+          "handle_left": {
+           "X": 0.5,
+           "Y": 1.0
+          },
+          "handle_right": {
+           "X": 0.5,
+           "Y": 0.0
+          },
+          "handle_type": 0,
+          "interpolation": 0
+         }
+        ]
+       }
+      },
+      "waveform": false,
+      "file_id": "5PEHOM9U8S",
+      "title": "autumn-leaves-flugelhorn-no-intro.mp3",
+      "image": "thumbnail/5PEHOM9U8S.png"
+     }
+    ]
    },
    {
     "type": "update",
     "key": [
      "clips",
      {
-      "id": "MNPTLPHN37"
+      "id": "B5QT0KCO6D"
      }
     ],
     "value": {
+     "id": "B5QT0KCO6D",
+     "layer": 5000000,
+     "position": 0,
+     "start": 0,
+     "end": 10
+    },
+    "partial": false,
+    "old_values": {
      "alpha": {
       "Points": [
        {
@@ -2628,9 +2768,9 @@
       ]
      },
      "display": 0,
-     "duration": 145.41600036621094,
+     "duration": 3600.0,
      "effects": [],
-     "end": 145.41600036621094,
+     "end": 10.0,
      "gravity": 4,
      "has_audio": {
       "Points": [
@@ -2654,8 +2794,455 @@
        }
       ]
      },
-     "id": "MNPTLPHN37",
-     "layer": 4000000,
+     "id": "B5QT0KCO6D",
+     "layer": 5000000,
+     "location_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "location_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "mixing": 0,
+     "perspective_c1_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c1_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c2_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c2_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c3_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c3_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c4_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c4_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "position": 32.85,
+     "reader": {
+      "acodec": "",
+      "audio_bit_rate": 0,
+      "audio_stream_index": -1,
+      "audio_timebase": {
+       "den": 1,
+       "num": 1
+      },
+      "channel_layout": 4,
+      "channels": 0,
+      "display_ratio": {
+       "den": 9,
+       "num": 16
+      },
+      "duration": 3600.0,
+      "file_size": "3686400",
+      "fps": {
+       "den": 1,
+       "num": 30
+      },
+      "has_audio": false,
+      "has_single_image": true,
+      "has_video": true,
+      "height": 720,
+      "interlaced_frame": false,
+      "metadata": {},
+      "path": "../../media/bumpers/Bumpers/Slide2.PNG",
+      "pixel_format": -1,
+      "pixel_ratio": {
+       "den": 1,
+       "num": 1
+      },
+      "sample_rate": 0,
+      "top_field_first": true,
+      "type": "QtImageReader",
+      "vcodec": "",
+      "video_bit_rate": 0,
+      "video_length": "108000",
+      "video_stream_index": -1,
+      "video_timebase": {
+       "den": 30,
+       "num": 1
+      },
+      "width": 1280
+     },
+     "rotation": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "scale": 1,
+     "scale_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "scale_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "shear_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "shear_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "start": 0.0,
+     "time": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "volume": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "wave_color": {
+      "alpha": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 255.0
+         },
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         },
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "interpolation": 0
+        }
+       ]
+      },
+      "blue": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 255.0
+         },
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         },
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "interpolation": 0
+        }
+       ]
+      },
+      "green": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 123.0
+         },
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         },
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "interpolation": 0
+        }
+       ]
+      },
+      "red": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 0.0
+         },
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         },
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "interpolation": 0
+        }
+       ]
+      }
+     },
+     "waveform": false,
+     "file_id": "YLRODNQ5K4",
+     "title": "Slide2.PNG"
+    }
+   },
+   {
+    "type": "update",
+    "key": [
+     "clips",
+     {
+      "id": "B5QT0KCO6D"
+     }
+    ],
+    "value": {
+     "id": "B5QT0KCO6D",
+     "layer": 5000000,
+     "position": 0,
+     "start": 0,
+     "end": 145.76666666666668
+    },
+    "partial": false,
+    "old_values": {
+     "alpha": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "anchor": 0,
+     "channel_filter": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "channel_mapping": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_height": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_width": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "display": 0,
+     "duration": 3600.0,
+     "effects": [],
+     "end": 10,
+     "gravity": 4,
+     "has_audio": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "has_video": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "id": "B5QT0KCO6D",
+     "layer": 5000000,
      "location_x": {
       "Points": [
        {
@@ -2768,6 +3355,51 @@
       ]
      },
      "position": 0,
+     "reader": {
+      "acodec": "",
+      "audio_bit_rate": 0,
+      "audio_stream_index": -1,
+      "audio_timebase": {
+       "den": 1,
+       "num": 1
+      },
+      "channel_layout": 4,
+      "channels": 0,
+      "display_ratio": {
+       "den": 9,
+       "num": 16
+      },
+      "duration": 3600.0,
+      "file_size": "3686400",
+      "fps": {
+       "den": 1,
+       "num": 30
+      },
+      "has_audio": false,
+      "has_single_image": true,
+      "has_video": true,
+      "height": 720,
+      "interlaced_frame": false,
+      "metadata": {},
+      "path": "../../media/bumpers/Bumpers/Slide2.PNG",
+      "pixel_format": -1,
+      "pixel_ratio": {
+       "den": 1,
+       "num": 1
+      },
+      "sample_rate": 0,
+      "top_field_first": true,
+      "type": "QtImageReader",
+      "vcodec": "",
+      "video_bit_rate": 0,
+      "video_length": "108000",
+      "video_stream_index": -1,
+      "video_timebase": {
+       "den": 30,
+       "num": 1
+      },
+      "width": 1280
+     },
      "rotation": {
       "Points": [
        {
@@ -2844,22 +3476,6 @@
          "Y": 1.0
         },
         "interpolation": 2
-       },
-       {
-        "co": {
-         "X": 1.0,
-         "Y": 0.5
-        },
-        "handle_left": {
-         "X": 0.5,
-         "Y": 1.0
-        },
-        "handle_right": {
-         "X": 0.5,
-         "Y": 0.0
-        },
-        "handle_type": 0,
-        "interpolation": 0
        }
       ]
      },
@@ -2946,10 +3562,466 @@
       }
      },
      "waveform": false,
-     "file_id": "5PEHOM9U8S",
-     "title": "autumn-leaves-flugelhorn-no-intro.mp3",
-     "image": "thumbnail/5PEHOM9U8S.png"
+     "file_id": "YLRODNQ5K4",
+     "title": "Slide2.PNG"
+    }
+   },
+   {
+    "type": "update",
+    "key": [
+     "clips",
+     {
+      "id": "B5QT0KCO6D"
+     }
+    ],
+    "value": {
+     "id": "B5QT0KCO6D",
+     "layer": 5000000,
+     "position": 0,
+     "start": 0,
+     "end": 145.33333333333334
     },
+    "partial": false,
+    "old_values": {
+     "alpha": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "anchor": 0,
+     "channel_filter": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "channel_mapping": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_height": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_width": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "display": 0,
+     "duration": 3600.0,
+     "effects": [],
+     "end": 145.76666666666668,
+     "gravity": 4,
+     "has_audio": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "has_video": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "id": "B5QT0KCO6D",
+     "layer": 5000000,
+     "location_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "location_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "mixing": 0,
+     "perspective_c1_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c1_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c2_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c2_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c3_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c3_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c4_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c4_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "position": 0,
+     "reader": {
+      "acodec": "",
+      "audio_bit_rate": 0,
+      "audio_stream_index": -1,
+      "audio_timebase": {
+       "den": 1,
+       "num": 1
+      },
+      "channel_layout": 4,
+      "channels": 0,
+      "display_ratio": {
+       "den": 9,
+       "num": 16
+      },
+      "duration": 3600.0,
+      "file_size": "3686400",
+      "fps": {
+       "den": 1,
+       "num": 30
+      },
+      "has_audio": false,
+      "has_single_image": true,
+      "has_video": true,
+      "height": 720,
+      "interlaced_frame": false,
+      "metadata": {},
+      "path": "../../media/bumpers/Bumpers/Slide2.PNG",
+      "pixel_format": -1,
+      "pixel_ratio": {
+       "den": 1,
+       "num": 1
+      },
+      "sample_rate": 0,
+      "top_field_first": true,
+      "type": "QtImageReader",
+      "vcodec": "",
+      "video_bit_rate": 0,
+      "video_length": "108000",
+      "video_stream_index": -1,
+      "video_timebase": {
+       "den": 30,
+       "num": 1
+      },
+      "width": 1280
+     },
+     "rotation": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "scale": 1,
+     "scale_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "scale_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "shear_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "shear_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "start": 0,
+     "time": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "volume": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "wave_color": {
+      "alpha": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 255.0
+         },
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         },
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "interpolation": 0
+        }
+       ]
+      },
+      "blue": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 255.0
+         },
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         },
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "interpolation": 0
+        }
+       ]
+      },
+      "green": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 123.0
+         },
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         },
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "interpolation": 0
+        }
+       ]
+      },
+      "red": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 0.0
+         },
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         },
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "interpolation": 0
+        }
+       ]
+      }
+     },
+     "waveform": false,
+     "file_id": "YLRODNQ5K4",
+     "title": "Slide2.PNG"
+    }
+   },
+   {
+    "type": "delete",
+    "key": [
+     "clips",
+     {
+      "id": "MNPTLPHN37"
+     }
+    ],
+    "value": null,
     "partial": false,
     "old_values": {
      "alpha": {
@@ -3298,6 +4370,22 @@
          "Y": 1.0
         },
         "interpolation": 2
+       },
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.5
+        },
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1.0
+        },
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0.0
+        },
+        "handle_type": 0,
+        "interpolation": 0
        }
       ]
      },
@@ -3387,6 +4475,3712 @@
      "file_id": "5PEHOM9U8S",
      "title": "autumn-leaves-flugelhorn-no-intro.mp3",
      "image": "thumbnail/5PEHOM9U8S.png"
+    }
+   },
+   {
+    "type": "delete",
+    "key": [
+     "files",
+     {
+      "id": "5PEHOM9U8S"
+     }
+    ],
+    "value": null,
+    "partial": false,
+    "old_values": {
+     "acodec": "mp3float",
+     "audio_bit_rate": 180620,
+     "audio_stream_index": 0,
+     "audio_timebase": {
+      "den": 14112000,
+      "num": 1
+     },
+     "channel_layout": 3,
+     "channels": 2,
+     "display_ratio": {
+      "den": 1,
+      "num": 1
+     },
+     "duration": 145.41600036621094,
+     "file_size": "3283300",
+     "fps": {
+      "den": 1,
+      "num": 24
+     },
+     "has_audio": true,
+     "has_single_image": false,
+     "has_video": false,
+     "height": 480,
+     "interlaced_frame": false,
+     "metadata": {
+      "artist": "Cam Soper",
+      "comment": "Flugelhorn remix, no intro",
+      "date": "2018",
+      "encoder": "LAME3.100",
+      "title": "Autumn Leaves Outro"
+     },
+     "path": "../../media/audio/autumn-leaves-flugelhorn-no-intro.mp3",
+     "pixel_format": -1,
+     "pixel_ratio": {
+      "den": 1,
+      "num": 1
+     },
+     "sample_rate": 48000,
+     "top_field_first": true,
+     "type": "FFmpegReader",
+     "vcodec": "",
+     "video_bit_rate": 0,
+     "video_length": "3489",
+     "video_stream_index": -1,
+     "video_timebase": {
+      "den": 24,
+      "num": 1
+     },
+     "width": 720,
+     "media_type": "audio",
+     "id": "5PEHOM9U8S",
+     "image": "thumbnail/5PEHOM9U8S.png"
+    }
+   },
+   {
+    "type": "insert",
+    "key": [
+     "files"
+    ],
+    "value": {
+     "acodec": "mp3float",
+     "audio_bit_rate": 193676,
+     "audio_stream_index": 0,
+     "audio_timebase": {
+      "den": 14112000,
+      "num": 1
+     },
+     "channel_layout": 3,
+     "channels": 2,
+     "display_ratio": {
+      "den": 1,
+      "num": 1
+     },
+     "duration": 322.32489013671875,
+     "file_size": "7803425",
+     "fps": {
+      "den": 1,
+      "num": 24
+     },
+     "has_audio": true,
+     "has_single_image": false,
+     "has_video": false,
+     "height": 480,
+     "interlaced_frame": false,
+     "metadata": {
+      "artist": "Cam Soper",
+      "date": "2020",
+      "encoder": "LAME3.100",
+      "title": "All The Things You Are"
+     },
+     "path": "../../media/audio/all-the-things-you-are-soloist.mp3",
+     "pixel_format": -1,
+     "pixel_ratio": {
+      "den": 1,
+      "num": 1
+     },
+     "sample_rate": 44100,
+     "top_field_first": true,
+     "type": "FFmpegReader",
+     "vcodec": "",
+     "video_bit_rate": 0,
+     "video_length": "7735",
+     "video_stream_index": -1,
+     "video_timebase": {
+      "den": 24,
+      "num": 1
+     },
+     "width": 720,
+     "media_type": "audio",
+     "id": "VW82UC98PI"
+    },
+    "partial": false,
+    "old_values": [
+     {
+      "acodec": "",
+      "audio_bit_rate": 0,
+      "audio_stream_index": -1,
+      "audio_timebase": {
+       "den": 1,
+       "num": 1
+      },
+      "channel_layout": 4,
+      "channels": 0,
+      "display_ratio": {
+       "den": 9,
+       "num": 16
+      },
+      "duration": 3600.0,
+      "file_size": "3686400",
+      "fps": {
+       "den": 1,
+       "num": 30
+      },
+      "has_audio": false,
+      "has_single_image": true,
+      "has_video": true,
+      "height": 720,
+      "interlaced_frame": false,
+      "metadata": {},
+      "path": "../../media/bumpers/Bumpers/Slide2.PNG",
+      "pixel_format": -1,
+      "pixel_ratio": {
+       "den": 1,
+       "num": 1
+      },
+      "sample_rate": 0,
+      "top_field_first": true,
+      "type": "QtImageReader",
+      "vcodec": "",
+      "video_bit_rate": 0,
+      "video_length": "108000",
+      "video_stream_index": -1,
+      "video_timebase": {
+       "den": 30,
+       "num": 1
+      },
+      "width": 1280,
+      "media_type": "image",
+      "id": "YLRODNQ5K4",
+      "image": "thumbnail/YLRODNQ5K4.png"
+     }
+    ]
+   },
+   {
+    "type": "insert",
+    "key": [
+     "clips"
+    ],
+    "value": {
+     "alpha": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "anchor": 0,
+     "channel_filter": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "channel_mapping": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_height": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_width": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "display": 0,
+     "duration": 322.32489013671875,
+     "effects": [],
+     "end": 145.63333333333333,
+     "gravity": 4,
+     "has_audio": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "has_video": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "id": "RWO0BZBJZ9",
+     "layer": 4000000,
+     "location_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "location_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "mixing": 0,
+     "perspective_c1_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c1_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c2_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c2_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c3_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c3_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c4_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c4_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "position": 0,
+     "reader": {
+      "acodec": "mp3float",
+      "audio_bit_rate": 193676,
+      "audio_stream_index": 0,
+      "audio_timebase": {
+       "den": 14112000,
+       "num": 1
+      },
+      "channel_layout": 3,
+      "channels": 2,
+      "display_ratio": {
+       "den": 1,
+       "num": 1
+      },
+      "duration": 322.32489013671875,
+      "file_size": "7803425",
+      "fps": {
+       "den": 1,
+       "num": 24
+      },
+      "has_audio": true,
+      "has_single_image": false,
+      "has_video": false,
+      "height": 480,
+      "interlaced_frame": false,
+      "metadata": {
+       "artist": "Cam Soper",
+       "date": "2020",
+       "encoder": "LAME3.100",
+       "title": "All The Things You Are"
+      },
+      "path": "../../media/audio/all-the-things-you-are-soloist.mp3",
+      "pixel_format": -1,
+      "pixel_ratio": {
+       "den": 1,
+       "num": 1
+      },
+      "sample_rate": 44100,
+      "top_field_first": true,
+      "type": "FFmpegReader",
+      "vcodec": "",
+      "video_bit_rate": 0,
+      "video_length": "7735",
+      "video_stream_index": -1,
+      "video_timebase": {
+       "den": 24,
+       "num": 1
+      },
+      "width": 720
+     },
+     "rotation": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "scale": 1,
+     "scale_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "scale_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "shear_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "shear_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "start": 0,
+     "time": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "volume": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       },
+       {
+        "co": {
+         "X": 4280.0,
+         "Y": 1.0
+        },
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1.0
+        },
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0.0
+        },
+        "handle_type": 0,
+        "interpolation": 0
+       },
+       {
+        "co": {
+         "X": 4370.0,
+         "Y": 0.0
+        },
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1.0
+        },
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0.0
+        },
+        "handle_type": 0,
+        "interpolation": 0
+       }
+      ]
+     },
+     "wave_color": {
+      "alpha": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 255.0
+         },
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         },
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "interpolation": 0
+        }
+       ]
+      },
+      "blue": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 255.0
+         },
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         },
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "interpolation": 0
+        }
+       ]
+      },
+      "green": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 123.0
+         },
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         },
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "interpolation": 0
+        }
+       ]
+      },
+      "red": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 0.0
+         },
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         },
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "interpolation": 0
+        }
+       ]
+      }
+     },
+     "waveform": false,
+     "file_id": "VW82UC98PI",
+     "title": "all-the-things-you-are-soloist.mp3"
+    },
+    "partial": false,
+    "old_values": [
+     {
+      "alpha": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "anchor": 0,
+      "channel_filter": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": -1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "channel_mapping": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": -1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "crop_height": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "crop_width": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "crop_x": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 0.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "crop_y": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 0.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "display": 0,
+      "duration": 3600.0,
+      "effects": [],
+      "end": 145.33333333333334,
+      "gravity": 4,
+      "has_audio": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": -1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "has_video": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": -1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "id": "B5QT0KCO6D",
+      "layer": 5000000,
+      "location_x": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 0.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "location_y": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 0.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "mixing": 0,
+      "perspective_c1_x": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": -1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "perspective_c1_y": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": -1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "perspective_c2_x": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": -1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "perspective_c2_y": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": -1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "perspective_c3_x": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": -1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "perspective_c3_y": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": -1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "perspective_c4_x": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": -1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "perspective_c4_y": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": -1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "position": 0,
+      "reader": {
+       "acodec": "",
+       "audio_bit_rate": 0,
+       "audio_stream_index": -1,
+       "audio_timebase": {
+        "den": 1,
+        "num": 1
+       },
+       "channel_layout": 4,
+       "channels": 0,
+       "display_ratio": {
+        "den": 9,
+        "num": 16
+       },
+       "duration": 3600.0,
+       "file_size": "3686400",
+       "fps": {
+        "den": 1,
+        "num": 30
+       },
+       "has_audio": false,
+       "has_single_image": true,
+       "has_video": true,
+       "height": 720,
+       "interlaced_frame": false,
+       "metadata": {},
+       "path": "../../media/bumpers/Bumpers/Slide2.PNG",
+       "pixel_format": -1,
+       "pixel_ratio": {
+        "den": 1,
+        "num": 1
+       },
+       "sample_rate": 0,
+       "top_field_first": true,
+       "type": "QtImageReader",
+       "vcodec": "",
+       "video_bit_rate": 0,
+       "video_length": "108000",
+       "video_stream_index": -1,
+       "video_timebase": {
+        "den": 30,
+        "num": 1
+       },
+       "width": 1280
+      },
+      "rotation": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 0.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "scale": 1,
+      "scale_x": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "scale_y": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "shear_x": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 0.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "shear_y": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 0.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "start": 0,
+      "time": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "volume": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "wave_color": {
+       "alpha": {
+        "Points": [
+         {
+          "co": {
+           "X": 1.0,
+           "Y": 255.0
+          },
+          "handle_left": {
+           "X": 0.5,
+           "Y": 1.0
+          },
+          "handle_right": {
+           "X": 0.5,
+           "Y": 0.0
+          },
+          "handle_type": 0,
+          "interpolation": 0
+         }
+        ]
+       },
+       "blue": {
+        "Points": [
+         {
+          "co": {
+           "X": 1.0,
+           "Y": 255.0
+          },
+          "handle_left": {
+           "X": 0.5,
+           "Y": 1.0
+          },
+          "handle_right": {
+           "X": 0.5,
+           "Y": 0.0
+          },
+          "handle_type": 0,
+          "interpolation": 0
+         }
+        ]
+       },
+       "green": {
+        "Points": [
+         {
+          "co": {
+           "X": 1.0,
+           "Y": 123.0
+          },
+          "handle_left": {
+           "X": 0.5,
+           "Y": 1.0
+          },
+          "handle_right": {
+           "X": 0.5,
+           "Y": 0.0
+          },
+          "handle_type": 0,
+          "interpolation": 0
+         }
+        ]
+       },
+       "red": {
+        "Points": [
+         {
+          "co": {
+           "X": 1.0,
+           "Y": 0.0
+          },
+          "handle_left": {
+           "X": 0.5,
+           "Y": 1.0
+          },
+          "handle_right": {
+           "X": 0.5,
+           "Y": 0.0
+          },
+          "handle_type": 0,
+          "interpolation": 0
+         }
+        ]
+       }
+      },
+      "waveform": false,
+      "file_id": "YLRODNQ5K4",
+      "title": "Slide2.PNG",
+      "image": "thumbnail/YLRODNQ5K4.png"
+     }
+    ]
+   },
+   {
+    "type": "update",
+    "key": [
+     "clips",
+     {
+      "id": "RWO0BZBJZ9"
+     }
+    ],
+    "value": {
+     "id": "RWO0BZBJZ9",
+     "layer": 4000000,
+     "position": 0,
+     "start": 0,
+     "end": 322.32489013671875
+    },
+    "partial": false,
+    "old_values": {
+     "alpha": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "anchor": 0,
+     "channel_filter": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "channel_mapping": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_height": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_width": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "display": 0,
+     "duration": 322.32489013671875,
+     "effects": [],
+     "end": 322.32489013671875,
+     "gravity": 4,
+     "has_audio": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "has_video": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "id": "RWO0BZBJZ9",
+     "layer": 5000000,
+     "location_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "location_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "mixing": 0,
+     "perspective_c1_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c1_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c2_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c2_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c3_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c3_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c4_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c4_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "position": 26.099999999999998,
+     "reader": {
+      "acodec": "mp3float",
+      "audio_bit_rate": 193676,
+      "audio_stream_index": 0,
+      "audio_timebase": {
+       "den": 14112000,
+       "num": 1
+      },
+      "channel_layout": 3,
+      "channels": 2,
+      "display_ratio": {
+       "den": 1,
+       "num": 1
+      },
+      "duration": 322.32489013671875,
+      "file_size": "7803425",
+      "fps": {
+       "den": 1,
+       "num": 24
+      },
+      "has_audio": true,
+      "has_single_image": false,
+      "has_video": false,
+      "height": 480,
+      "interlaced_frame": false,
+      "metadata": {
+       "artist": "Cam Soper",
+       "date": "2020",
+       "encoder": "LAME3.100",
+       "title": "All The Things You Are"
+      },
+      "path": "../../media/audio/all-the-things-you-are-soloist.mp3",
+      "pixel_format": -1,
+      "pixel_ratio": {
+       "den": 1,
+       "num": 1
+      },
+      "sample_rate": 44100,
+      "top_field_first": true,
+      "type": "FFmpegReader",
+      "vcodec": "",
+      "video_bit_rate": 0,
+      "video_length": "7735",
+      "video_stream_index": -1,
+      "video_timebase": {
+       "den": 24,
+       "num": 1
+      },
+      "width": 720
+     },
+     "rotation": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "scale": 1,
+     "scale_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "scale_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "shear_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "shear_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "start": 0.0,
+     "time": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "volume": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "wave_color": {
+      "alpha": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 255.0
+         },
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         },
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "interpolation": 0
+        }
+       ]
+      },
+      "blue": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 255.0
+         },
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         },
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "interpolation": 0
+        }
+       ]
+      },
+      "green": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 123.0
+         },
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         },
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "interpolation": 0
+        }
+       ]
+      },
+      "red": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 0.0
+         },
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         },
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "interpolation": 0
+        }
+       ]
+      }
+     },
+     "waveform": false,
+     "file_id": "VW82UC98PI",
+     "title": "all-the-things-you-are-soloist.mp3"
+    }
+   },
+   {
+    "type": "update",
+    "key": [
+     "clips",
+     {
+      "id": "RWO0BZBJZ9"
+     }
+    ],
+    "value": {
+     "id": "RWO0BZBJZ9",
+     "layer": 4000000,
+     "position": 0,
+     "start": 0,
+     "end": 145.63333333333333
+    },
+    "partial": false,
+    "old_values": {
+     "alpha": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "anchor": 0,
+     "channel_filter": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "channel_mapping": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_height": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_width": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "display": 0,
+     "duration": 322.32489013671875,
+     "effects": [],
+     "end": 322.32489013671875,
+     "gravity": 4,
+     "has_audio": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "has_video": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "id": "RWO0BZBJZ9",
+     "layer": 4000000,
+     "location_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "location_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "mixing": 0,
+     "perspective_c1_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c1_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c2_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c2_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c3_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c3_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c4_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c4_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "position": 0,
+     "reader": {
+      "acodec": "mp3float",
+      "audio_bit_rate": 193676,
+      "audio_stream_index": 0,
+      "audio_timebase": {
+       "den": 14112000,
+       "num": 1
+      },
+      "channel_layout": 3,
+      "channels": 2,
+      "display_ratio": {
+       "den": 1,
+       "num": 1
+      },
+      "duration": 322.32489013671875,
+      "file_size": "7803425",
+      "fps": {
+       "den": 1,
+       "num": 24
+      },
+      "has_audio": true,
+      "has_single_image": false,
+      "has_video": false,
+      "height": 480,
+      "interlaced_frame": false,
+      "metadata": {
+       "artist": "Cam Soper",
+       "date": "2020",
+       "encoder": "LAME3.100",
+       "title": "All The Things You Are"
+      },
+      "path": "../../media/audio/all-the-things-you-are-soloist.mp3",
+      "pixel_format": -1,
+      "pixel_ratio": {
+       "den": 1,
+       "num": 1
+      },
+      "sample_rate": 44100,
+      "top_field_first": true,
+      "type": "FFmpegReader",
+      "vcodec": "",
+      "video_bit_rate": 0,
+      "video_length": "7735",
+      "video_stream_index": -1,
+      "video_timebase": {
+       "den": 24,
+       "num": 1
+      },
+      "width": 720
+     },
+     "rotation": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "scale": 1,
+     "scale_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "scale_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "shear_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "shear_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "start": 0,
+     "time": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "volume": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "wave_color": {
+      "alpha": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 255.0
+         },
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         },
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "interpolation": 0
+        }
+       ]
+      },
+      "blue": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 255.0
+         },
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         },
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "interpolation": 0
+        }
+       ]
+      },
+      "green": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 123.0
+         },
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         },
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "interpolation": 0
+        }
+       ]
+      },
+      "red": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 0.0
+         },
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         },
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "interpolation": 0
+        }
+       ]
+      }
+     },
+     "waveform": false,
+     "file_id": "VW82UC98PI",
+     "title": "all-the-things-you-are-soloist.mp3"
+    }
+   },
+   {
+    "type": "update",
+    "key": [
+     "clips",
+     {
+      "id": "RWO0BZBJZ9"
+     }
+    ],
+    "value": {
+     "alpha": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "anchor": 0,
+     "channel_filter": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "channel_mapping": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_height": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_width": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "display": 0,
+     "duration": 322.32489013671875,
+     "effects": [],
+     "end": 145.63333333333333,
+     "gravity": 4,
+     "has_audio": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "has_video": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "id": "RWO0BZBJZ9",
+     "layer": 4000000,
+     "location_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "location_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "mixing": 0,
+     "perspective_c1_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c1_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c2_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c2_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c3_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c3_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c4_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c4_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "position": 0,
+     "rotation": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "scale": 1,
+     "scale_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "scale_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "shear_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "shear_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "start": 0,
+     "time": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "volume": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       },
+       {
+        "co": {
+         "X": 4280.0,
+         "Y": 1.0
+        },
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1.0
+        },
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0.0
+        },
+        "handle_type": 0,
+        "interpolation": 0
+       },
+       {
+        "co": {
+         "X": 4370.0,
+         "Y": 0.0
+        },
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1.0
+        },
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0.0
+        },
+        "handle_type": 0,
+        "interpolation": 0
+       }
+      ]
+     },
+     "wave_color": {
+      "alpha": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 255.0
+         },
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         },
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "interpolation": 0
+        }
+       ]
+      },
+      "blue": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 255.0
+         },
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         },
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "interpolation": 0
+        }
+       ]
+      },
+      "green": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 123.0
+         },
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         },
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "interpolation": 0
+        }
+       ]
+      },
+      "red": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 0.0
+         },
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         },
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "interpolation": 0
+        }
+       ]
+      }
+     },
+     "waveform": false,
+     "file_id": "VW82UC98PI",
+     "title": "all-the-things-you-are-soloist.mp3"
+    },
+    "partial": false,
+    "old_values": {
+     "alpha": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "anchor": 0,
+     "channel_filter": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "channel_mapping": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_height": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_width": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "display": 0,
+     "duration": 322.32489013671875,
+     "effects": [],
+     "end": 145.63333333333333,
+     "gravity": 4,
+     "has_audio": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "has_video": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "id": "RWO0BZBJZ9",
+     "layer": 4000000,
+     "location_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "location_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "mixing": 0,
+     "perspective_c1_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c1_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c2_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c2_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c3_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c3_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c4_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c4_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "position": 0,
+     "reader": {
+      "acodec": "mp3float",
+      "audio_bit_rate": 193676,
+      "audio_stream_index": 0,
+      "audio_timebase": {
+       "den": 14112000,
+       "num": 1
+      },
+      "channel_layout": 3,
+      "channels": 2,
+      "display_ratio": {
+       "den": 1,
+       "num": 1
+      },
+      "duration": 322.32489013671875,
+      "file_size": "7803425",
+      "fps": {
+       "den": 1,
+       "num": 24
+      },
+      "has_audio": true,
+      "has_single_image": false,
+      "has_video": false,
+      "height": 480,
+      "interlaced_frame": false,
+      "metadata": {
+       "artist": "Cam Soper",
+       "date": "2020",
+       "encoder": "LAME3.100",
+       "title": "All The Things You Are"
+      },
+      "path": "../../media/audio/all-the-things-you-are-soloist.mp3",
+      "pixel_format": -1,
+      "pixel_ratio": {
+       "den": 1,
+       "num": 1
+      },
+      "sample_rate": 44100,
+      "top_field_first": true,
+      "type": "FFmpegReader",
+      "vcodec": "",
+      "video_bit_rate": 0,
+      "video_length": "7735",
+      "video_stream_index": -1,
+      "video_timebase": {
+       "den": 24,
+       "num": 1
+      },
+      "width": 720
+     },
+     "rotation": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "scale": 1,
+     "scale_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "scale_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "shear_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "shear_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "start": 0,
+     "time": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "volume": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "wave_color": {
+      "alpha": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 255.0
+         },
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         },
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "interpolation": 0
+        }
+       ]
+      },
+      "blue": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 255.0
+         },
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         },
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "interpolation": 0
+        }
+       ]
+      },
+      "green": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 123.0
+         },
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         },
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "interpolation": 0
+        }
+       ]
+      },
+      "red": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 0.0
+         },
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         },
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "interpolation": 0
+        }
+       ]
+      }
+     },
+     "waveform": false,
+     "file_id": "VW82UC98PI",
+     "title": "all-the-things-you-are-soloist.mp3"
+    }
+   },
+   {
+    "type": "update",
+    "key": [
+     "clips",
+     {
+      "id": "B5QT0KCO6D"
+     }
+    ],
+    "value": {
+     "alpha": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       },
+       {
+        "co": {
+         "X": 4271.0,
+         "Y": 1.0
+        },
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1.0
+        },
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0.0
+        },
+        "handle_type": 0,
+        "interpolation": 0
+       },
+       {
+        "co": {
+         "X": 4361.0,
+         "Y": 0.0
+        },
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1.0
+        },
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0.0
+        },
+        "handle_type": 0,
+        "interpolation": 0
+       }
+      ]
+     },
+     "anchor": 0,
+     "channel_filter": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "channel_mapping": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_height": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_width": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "display": 0,
+     "duration": 3600.0,
+     "effects": [],
+     "end": 145.33333333333334,
+     "gravity": 4,
+     "has_audio": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "has_video": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "id": "B5QT0KCO6D",
+     "layer": 5000000,
+     "location_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "location_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "mixing": 0,
+     "perspective_c1_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c1_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c2_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c2_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c3_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c3_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c4_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c4_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "position": 0,
+     "rotation": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "scale": 1,
+     "scale_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "scale_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "shear_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "shear_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "start": 0,
+     "time": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "volume": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "wave_color": {
+      "alpha": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 255.0
+         },
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         },
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "interpolation": 0
+        }
+       ]
+      },
+      "blue": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 255.0
+         },
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         },
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "interpolation": 0
+        }
+       ]
+      },
+      "green": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 123.0
+         },
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         },
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "interpolation": 0
+        }
+       ]
+      },
+      "red": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 0.0
+         },
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         },
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "interpolation": 0
+        }
+       ]
+      }
+     },
+     "waveform": false,
+     "file_id": "YLRODNQ5K4",
+     "title": "Slide2.PNG",
+     "image": "thumbnail/YLRODNQ5K4.png"
+    },
+    "partial": false,
+    "old_values": {
+     "alpha": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "anchor": 0,
+     "channel_filter": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "channel_mapping": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_height": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_width": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "display": 0,
+     "duration": 3600.0,
+     "effects": [],
+     "end": 145.33333333333334,
+     "gravity": 4,
+     "has_audio": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "has_video": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "id": "B5QT0KCO6D",
+     "layer": 5000000,
+     "location_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "location_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "mixing": 0,
+     "perspective_c1_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c1_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c2_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c2_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c3_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c3_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c4_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c4_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "position": 0,
+     "reader": {
+      "acodec": "",
+      "audio_bit_rate": 0,
+      "audio_stream_index": -1,
+      "audio_timebase": {
+       "den": 1,
+       "num": 1
+      },
+      "channel_layout": 4,
+      "channels": 0,
+      "display_ratio": {
+       "den": 9,
+       "num": 16
+      },
+      "duration": 3600.0,
+      "file_size": "3686400",
+      "fps": {
+       "den": 1,
+       "num": 30
+      },
+      "has_audio": false,
+      "has_single_image": true,
+      "has_video": true,
+      "height": 720,
+      "interlaced_frame": false,
+      "metadata": {},
+      "path": "../../media/bumpers/Bumpers/Slide2.PNG",
+      "pixel_format": -1,
+      "pixel_ratio": {
+       "den": 1,
+       "num": 1
+      },
+      "sample_rate": 0,
+      "top_field_first": true,
+      "type": "QtImageReader",
+      "vcodec": "",
+      "video_bit_rate": 0,
+      "video_length": "108000",
+      "video_stream_index": -1,
+      "video_timebase": {
+       "den": 30,
+       "num": 1
+      },
+      "width": 1280
+     },
+     "rotation": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "scale": 1,
+     "scale_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "scale_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "shear_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "shear_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "start": 0,
+     "time": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "volume": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "wave_color": {
+      "alpha": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 255.0
+         },
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         },
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "interpolation": 0
+        }
+       ]
+      },
+      "blue": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 255.0
+         },
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         },
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "interpolation": 0
+        }
+       ]
+      },
+      "green": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 123.0
+         },
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         },
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "interpolation": 0
+        }
+       ]
+      },
+      "red": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 0.0
+         },
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         },
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "interpolation": 0
+        }
+       ]
+      }
+     },
+     "waveform": false,
+     "file_id": "YLRODNQ5K4",
+     "title": "Slide2.PNG",
+     "image": "thumbnail/YLRODNQ5K4.png"
     }
    }
   ],
